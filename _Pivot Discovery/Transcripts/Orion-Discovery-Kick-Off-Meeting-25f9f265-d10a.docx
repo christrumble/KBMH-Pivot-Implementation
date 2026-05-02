@@ -1,0 +1,3507 @@
+**\
+00:00**\
+Marcus Dallacqua\
+Thank you, Daniel.
+
+**\
+00:02**\
+Marcus Dallacqua\
+You definitely need that.
+
+**\
+00:06**\
+Chris Trumble\
+How are you, Sandy?
+
+**\
+00:08**\
+Sandra Rudloff\
+I am good. I\'m really excited. This is always fun to do. So, yeah,
+we\'re waiting for one more of my core team. That\'s everyone who\'s on
+this call. Oh, and there he is.
+
+**\
+00:24**\
+Marcus Dallacqua\
+Very good.
+
+**\
+00:28**\
+Marcus Dallacqua\
+So we\'re good to go?
+
+**\
+00:29**\
+Sandra Rudloff\
+We are good to go.
+
+**\
+00:30**\
+Marcus Dallacqua\
+All right, well, welcome, everybody. The. This is the first step in a
+journey towards your implementation on NetSuite Orion. So we\'re very
+excited to have you here. I have a few people from my organization here
+as well, so what we typically do here, Sandy, is we start off with
+introductions. So if we can start on our side and then hand it off to
+your team to do introductions as well.
+
+**\
+01:00**\
+Sandra Rudloff\
+Yeah, sure.
+
+**\
+01:01**\
+Marcus Dallacqua\
+Great.
+
+**\
+01:01**\
+Marcus Dallacqua\
+So for everybody that I have not met before, my name is Marcus Delacqua.
+I\'m the VP of Business Development here at gsi. I also am the CEO of
+Proprio Cloud Solutions, and Proprio is the software organization that
+has built Orion that works inside of NetSuite. So my role is twofold. I
+head up the software side of the company, and I have a business partner,
+really, that\'s running that. But then I also have my employment here
+with gsi. And at gsi, myself and Chris really lead the charge on the
+Orion program. And gsi, along with a couple other implementation
+companies we\'re working with to implement NetSuite Orion for Miller and
+old dealers. And with that, I\'ll hand it off to Chris.
+
+**\
+01:50**\
+Chris Trumble\
+Good to meet you guys. Like Marcus said, I am also playing kind of a
+dual role. I\'m a partner in ProAudioCloud Solutions. I designed all the
+screens, UIUX for Orion and longtime NetSuite customer, self implemented
+without the help of a team like this in 2020 and my own business. And,
+yeah, I\'ll be kind of playing the bridge between companies, helping out
+on discoveries and just being a resource for you guys here at gsi.
+
+**\
+02:25**\
+Marcus Dallacqua\
+And then you want me to go? Yeah, you got to hand the baton off to Sean.
+Yeah, Sean Scanlon. I\'m one of the founders of gsi. I\'m just here as
+an executive sponsor for your project, so make sure you have all the
+resources you need to be successful. If you have escalations, you can
+bring them up to me and I\'ll make sure they\'re dealt with right away.
+I\'ll pass it on to Danielle.
+
+**\
+02:52**\
+Shawn Scanlon\
+Morning.
+
+**\
+02:52**\
+Sandra Rudloff\
+I\'m Danielle Winslow. I am the professional Services manager here for
+the NetSuite team at GSI. So I\'ll be working hand in hand with Marcus
+and the Netsuite team, making sure you have everything that you need.
+
+**\
+03:06**\
+Marcus Dallacqua\
+Good. Debbie.
+
+**\
+03:08**\
+Donielle Winslow\
+Hi everyone. It\'s nice to meet you virtually. I\'m Debbie Herbert.
+I\'ll be the NetSuite project manager here. I have a decade of
+experience in consulting, the last six years of which I was focused
+exclusively in the NetSuite space, both as an implementer and a PM. And
+before I started my consulting career, I worked industry. I rotated
+between accounting, systems development, accounting operations and
+project management. And I know what it\'s like to be on your side of the
+desk, to have a large implementation project going on as well as my day
+job. So one of the things I\'m going to do is to make sure that we have
+a balance between our end user perspectives and our consulting
+perspectives to make sure we get this done on time and on budget.
+
+**\
+03:55**\
+Marcus Dallacqua\
+Thanks, Debbie.
+
+**\
+03:57**\
+Sandra Rudloff\
+Okay, so I guess I\'ll go. Sandra Redloff. I\'m VP of Finance Operations
+at Pivot. I\'m I guess the lead on this project. Been part of the dealer
+Orion team really since the inception. So it\'s coming up on two years,
+I think.
+
+**\
+04:14**\
+Marcus Dallacqua\
+So.
+
+**\
+04:15**\
+Sandra Rudloff\
+Very excited to get this going and see the final outcome of all the
+input we had given. And let\'s see. Kevin, you want to go next?
+
+**\
+04:23**\
+Marcus Dallacqua\
+Sure.
+
+**\
+04:23**\
+Kevin Baugh\
+Good morning everyone. Kevin, VP of Finance. Very excited to get going
+on this project. Most importantly, we\'re looking forward to reducing
+cost, eliminating redundant systems and just simplifying this whole
+process and making things easier for our employees. So I\'m very excited
+to be kicking off this project today.
+
+**\
+04:45**\
+Sandra Rudloff\
+Yudi.
+
+**\
+04:46**\
+Amanda Beaudin\
+Yeah, sure.
+
+**\
+04:47**\
+Marcus Dallacqua\
+Good morning.
+
+**\
+04:49**\
+Marie Guerrero\
+Udi.
+
+**\
+04:49**\
+Amanda Beaudin\
+Short for Eurydia Silvis. I\'m the Sales Operations Director. I lead the
+Sales Coordinator team. Also support new business development with
+annuity accounts and our public and health and higher ed teams. Kind of
+excited to start this journey. I have gone through several
+implementations and I will honestly say that seeing the demo for Orion
+has been pretty impressive and really eager to see this take off and
+have us continue to be very successful in the business that we do. So
+excited.
+
+**\
+05:25**\
+Marcus Dallacqua\
+Very good, Brian.
+
+**\
+05:30**\
+Marcus Dallacqua\
+Morning everyone. So, I\'m Brian Hagery. I\'m the director of our
+project management team. I bring a little bit of a diverse perspective
+to the team here. Actually joined Pivot Interiors as a Project
+Coordinator as well as a Sales Coordinator and have helped with a lot of
+training and subject matter expert type roles within the organization as
+I\'ve grown through the team. Now I\'m most focused on project
+management, project implementation, but definitely mirroring the team\'s
+excitement here, the idea of simplifying our process is exactly what we
+need to be successful. And I\'m very excited for this.
+
+**\
+06:11**\
+Sandra Rudloff\
+Marie.
+
+**\
+06:13**\
+Marie Guerrero\
+Hi, good morning. My name is Marie Guerrero. I\'m the service Operations
+director. And I\'m excited, super excited about this because I have team
+members who are in several different systems, just like many of my
+colleagues on the call, really excited to just learn more and get my
+hands into receiving purchase orders, everything, just streamlining
+everything. So super excited. I, like, I really understand all aspects
+of everything that my team does from data entry standpoint and
+processing standpoint. So I\'m excited to learn and be part of this team
+and get this thing going.
+
+**\
+06:55**\
+Marcus Dallacqua\
+Very good.
+
+**\
+06:58**\
+Sandra Rudloff\
+Amanda.
+
+**\
+07:00**\
+Amanda Beaudin\
+I think that leaves me. My name\'s Amanda Bowden. I am the project
+coordinator supervisor. I also work full time as a project coordinator.
+Our team is very excited about working in fewer systems.
+
+**\
+07:14**\
+Marie Guerrero\
+We generally all work in probably about.
+
+**\
+07:17**\
+Amanda Beaudin\
+Five at a time.
+
+**\
+07:19**\
+Marie Guerrero\
+So we\'re very excited to be able.
+
+**\
+07:22**\
+Amanda Beaudin\
+To condense that and find a much more streamlined way of getting orders
+processed and invoicing triggered. We\'re really stoked.
+
+**\
+07:35**\
+Marcus Dallacqua\
+Is that everybody.
+
+**\
+07:37**\
+Sandra Rudloff\
+That\'s everyone.
+
+**\
+07:39**\
+Marcus Dallacqua\
+Great.
+
+**\
+07:39**\
+Marcus Dallacqua\
+Well, the recurring theme that I hear is everybody\'s excited and I\'m
+really glad about that. We are too. You know, it\'s just to maybe
+communicate to you how important your implementation is. Sean, one of
+the owners of GSI is here. I myself am here. That\'s not going to be
+typical for many of these implementations. It\'s not typical for the,
+you know, the software creator and his team to be part of these
+implementations just because we have limited time and we\'re kind of
+stretched then. But these first implementations are very important to
+us. And so we are. Chris and I are both are very excited to be part of
+this. And it\'s very important to us that you have a successful
+implementation. And I want you to know too, that everything about the
+software really came out of our minds.
+
+**\
+08:36**\
+Marcus Dallacqua\
+We spent a lot of time thinking about what the software should be. We
+have experience, you know, 20 plus years experience with NetSuite, but
+also a number of years of implementing NetSuite for furniture dealers.
+And we pulled industry experts as well to help us with that. So, you
+know, when you look at, when we talk about what we\'re going to be
+implementing for you, we know this product inside and out because we
+really created every single piece of it. And even the PowerPoint
+presentation, today that you\'re going to see, Chris and I develop the
+PowerPoint presentation, the discovery process we created, all the
+discovery questions we created. So we\'re very much A part of this whole
+process. Now, going forward after discovery, you\'re going to have more
+team members.
+
+**\
+09:24**\
+Marcus Dallacqua\
+It\'s just not possible for us to be able to carry the whole thing on
+ourselves, on our. On our shoulders. So we\'ll be bringing in other
+people to help us. I really appreciate the fact that Sean and Danielle
+are here as well, you know, as the executive sponsors and project
+sponsors. It\'s also, It\'s. It\'s really important that we have their
+support. And then I really like your representation as well. Everybody
+from, you know, Kevin and Sandy. And then you have people that are
+actually doing the work on. On this session is. Is really shows to me
+how committed you are at seeing this being successful implementation. So
+with that, let\'s get started. Just so you know, just kind of. For
+today\'s session, the first half is going to be a little bit lighter.
+
+**\
+10:10**\
+Marcus Dallacqua\
+It\'s really more introductory, kind of setting the stage for the
+discovery process, which is going to probably be the next eight to 12
+weeks. And then the second half of this is going to. We\'re actually
+going to get in and do some light discovery. So we\'re going to kind of
+ease our way into it. Tomorrow will be a little bit more hardcore going
+into our discovery process, but today I want to talk about just the
+implementation process overall, our discovery methodology, and just kind
+of setting the stage for going forward. I do want this to be very much a
+conversation, so at any time you have questions, feel free to stop me.
+I\'ll just keep going. Unless you. Unless you stop me.
+
+**\
+10:50**\
+Marcus Dallacqua\
+I do have a point in the presentation where I do stop and pause, but
+feel free to interrupt me at any point. And anybody on my team. Yeah, I
+was just going to say anybody on my team. Feel free to do color
+commentary. And Sean spoke. Well, I was just wondering if it would make
+sense unless you guys have something, you know, are opposed to it, maybe
+even recording this thing in case you got other team members that want
+to take a look at or review this after the fact.
+
+**\
+11:16**\
+Amanda Beaudin\
+That\'d be great.
+
+**\
+11:17**\
+Sandra Rudloff\
+Yeah, let\'s do it.
+
+**\
+11:19**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+11:20**\
+Marcus Dallacqua\
+Yeah, we\'re recording on our side, but if you want to record on your
+side too, either way, it didn\'t say it was being recorded, so that\'s
+why. Oh, yeah, we got fireflies in here. But if you want to record the
+actual video, too.
+
+**\
+11:34**\
+Marcus Dallacqua\
+Great.
+
+**\
+11:35**\
+Marcus Dallacqua\
+All right, everybody can see my screen.
+
+**\
+11:38**\
+Marcus Dallacqua\
+Good deal.
+
+**\
+11:40**\
+Marcus Dallacqua\
+Let\'s see if we can get this to work here. There we go. So,
+introductions. We already covered that. Our agenda for today\'s success,
+how we define it, I like to Talk about some of these risks.
+
+**\
+11:53**\
+Marcus Dallacqua\
+And.
+
+**\
+11:55**\
+Marcus Dallacqua\
+At the beginning of these discovery sessions, I appreciate the
+enthusiasm and I appreciate. Because we\'re going to need it, we\'re
+going to need all of it because we have such a long journey and there\'s
+going to be bumps in the road and it\'s hard. Implementations are hard.
+So all that enthusiasm is really necessary. And I like to identify what
+our objectives are because it reminds us as we\'re going through this
+and when we\'re hitting some challenging times, what it is we\'re trying
+to achieve and what\'s on the other side of this is really important for
+us to identify. So we\'ll talk about risks, we\'ll talk about our
+process, our dream implementation methodology. And then the fifth agenda
+point there is our discovery workshop, which is the second half will be
+off and running and really looking at, like I said, it\'s kind of light.
+
+**\
+12:45**\
+Marcus Dallacqua\
+It\'s system configuration setup, company setup. And you\'ll be happy to
+know that NetSuite Orion is pre configured. So a lot of that we\'re just
+going to be confirming some things with you and for. I don\'t know what
+happened to me, Chris, what happened to me?
+
+**\
+13:04**\
+Chris Trumble\
+It\'s one of your transitions. Go ahead and click.
+
+**\
+13:06**\
+Marcus Dallacqua\
+Oh, no. Well, we see it here.
+
+**\
+13:10**\
+Marcus Dallacqua\
+Oh, there we go. There we go.
+
+**\
+13:12**\
+Marcus Dallacqua\
+So you know the GSA team, we already did our introductions, but just as
+a reminder, myself, Chris and Debbie will be with you throughout
+discovery. Debbie\'s probably going to be with you all the way to the
+very end. But after discovery, we\'ll be handing this off to some other
+consultants that\'ll be walking you through the rest of the
+implementation. However, Chris and I are going to be part of this all
+the way through to the end to some degree, and we\'re. And you\'ll
+always be able to communicate with us. So Sandy, you\'ve been able to
+communicate with me via email. I think you have my cell phone number and
+you can. We\'ve communicated over teams. That\'s not going to change.
+You\'ll always have access to me.
+
+**\
+13:47**\
+Sandra Rudloff\
+Right?
+
+**\
+13:50**\
+Marcus Dallacqua\
+All right, so what does a successful NetSuite Orion implementation look
+like? And as I mentioned, these are slides that I put together myself.
+These are me thinking about over the years doing implementations and
+working in organizations and what does it actually, what are the
+necessary ingredients for us to be successful during this
+implementation? And there\'s a number of things that we\'re going to
+review. But from my standpoint, when I think about this, what I really
+am looking to accomplish for you. Pivot from proprio, from Us to you is
+we want to see operational excellence for your organization. So we want
+to find ways to smooth out your day to day operations. We really want to
+be careful that we\'re not introducing any business disruptions because
+you all have your day jobs.
+
+**\
+14:38**\
+Marcus Dallacqua\
+And so it\'s one of the reasons why we don\'t go super fast with these
+implementations because we do this all day long, but you guys have your
+day jobs. And so we want to be careful about the impact to your
+organization. Want to always keep our eye on those activities that are
+revenue generating for you. So you\'re going to see that we\'re not
+going to push you to overbook yourself. We recognize that, especially
+ourselves being previous customers and having our own businesses running
+in NetSuite, we understand that complete data migration, you know,
+you\'re coming off of a number of systems and so we have to be really
+careful and thoughtful about what we\'re going to bring over and how
+we\'re going to bring it over and when we\'re going to bring it over and
+that\'s really important.
+
+**\
+15:22**\
+Marcus Dallacqua\
+And then we also want to make sure that you\'re fully trained. We have a
+really, I think, unique philosophy when it comes to netsuite and really
+what our goal is to see you to be self reliant on the platform. We
+don\'t want to just get you in the system, turn the key, start the
+ignition and walk away and have you kind of figured out as you go. And
+we also don\'t want you to be dependent on us. Again, this comes from
+our customer perspective where we don\'t want to have to keep going back
+to an organization and paying them money to write a report for us or do
+something that\'s somewhat basic in the system.
+
+**\
+16:00**\
+Marcus Dallacqua\
+Well, we want to make sure that we transfer that knowledge to you and
+yourself relying on the system because we don\'t feel like that\'s the
+best use of your money and really the best use of our time. We want to
+be there for you for some of the larger projects and some of the more
+complicated things that you want to do in the system and new features
+that get introduced. We want to be able to work with you on those. But
+we really want you to be self sufficient in the platform and not having
+to be relying on us or really anybody else. Also for your organization,
+we want to really focus on enhancing efficiency and productivity. This
+really kind of comes down to the cost benefit analysis of the system.
+This only makes sense if it does a few things for you.
+
+**\
+16:45**\
+Marcus Dallacqua\
+It must Save you money and it must increase productivity, optimizing
+your business processes, which is really affecting your labor dollars,
+automating things in the system, which again really is really optimizing
+those labor dollars, giving you the ability to do more with the same
+amount of people. Stronger integrations, specifically with Miller Null,
+we have two or three of those integrations already built in a number on
+our roadmap. We want to help you increase efficiency through those
+integrations and then that real time visibility for better and faster
+decision making. And then we always come to this from the standpoint of
+how do we help you grow. We\'re not necessarily thinking like how can
+you cut people? Because technology can do that. Technology can come in
+and potentially reduce how many people are working in the company.
+
+**\
+17:39**\
+Marcus Dallacqua\
+But we\'re really thinking about it from how much more can you do? How
+can you grow revenue without having to add more people? So that\'s the
+standpoint. We come at it. So really increase capacity, having that
+foundation that is more scalable and giving you a competitive advantage.
+So we don\'t want you just to be live on the system, we want you to
+thrive on the system. So two of those things that we\'ve identified that
+are critical for success is really on our side is a structured
+implementation methodology. And that\'s, we see that as our
+responsibility. So really strong project management. I\'m very happy to
+have Debbie on the call with us today. She\'s going to be your project
+manager. So detailed planning. By the way, Danielle is here as well and
+she really kind of heads everything over pmo.
+
+**\
+18:26**\
+Marcus Dallacqua\
+So she\'s already created your project in our project management system.
+So she\'s already very familiar with your project as well. Detailed
+planning, milestone tracking, risk management, clear communication. As I
+mentioned, this is extremely important. But you have access to all of
+us. And I think it is really important too that we kind of agree at the
+beginning of this that it\'s okay to have those difficult conversations.
+So I don\'t want to, I don\'t want to say that this, I don\'t want to
+overemphasize that this is going to be hard. It is going to be hard. It
+is also going to be fun and it\'s also going to be exciting. And when
+you come out the other side, you\'re going to, I think you\'re going to
+really enjoy the platform.
+
+**\
+19:07**\
+Marcus Dallacqua\
+But there are going to be times during this implementation that we\'re
+going to have some challenges and it\'s just important that we give each
+other permission to have those hard conversations. So I want to extend
+that to you. If there\'s challenges and you need to have that
+conversation, feel free to reach out to me. And Sean also is, has
+extended that as well. Another one of our responsibilities, to have that
+comprehensive training process. We feel confident we built that into our
+methodology when we get to that educate phase and we\'ll talk a bit more
+about that. Our process walkthroughs, our UAT scripts, we have 15, I
+think actually we\'ve increased that now to 18. 15 to 18. Process or use
+case scenarios, very specific to furniture that we\'ve already
+established. And we\'ll talk more about that because we use those during
+uat.
+
+**\
+19:58**\
+Marcus Dallacqua\
+But they\'re all very specific to furniture. So, you know, they include
+things like direct bill, third party billing, things that you\'re
+familiar with. That, that is very specific to furniture. So we have that
+already laid out. And then our DREAM methodology, we call it Dream, and
+you\'ll see why. Discovery, realize, educate, actualize and maintain. We
+just, we call it dream. It\'s just easier to remember. But it\'s a very
+proven methodology that has been used over and over in these type of
+implementations. And then as I mentioned, UAT or user acceptance
+testing. I\'m sorry, I. I get frustrated sometimes when people use
+acronyms without defining them. So I want to make sure I define that. So
+user acceptance testing, uat, we have some rigorous testing and
+validation that you do on your side before we go live. So that\'s really
+important.
+
+**\
+20:52**\
+Marcus Dallacqua\
+That\'s the first key ingredient to success. And then on your side,
+client readiness and engagement. And, you know, I think I could say
+this. You know, I think we engaged with your company back at the end of
+2024. Is that right, Sandy?
+
+**\
+21:04**\
+Marcus Dallacqua\
+Maybe.
+
+**\
+21:05**\
+Marcus Dallacqua\
+Was it November or December?
+
+**\
+21:07**\
+Sandra Rudloff\
+Yeah.
+
+**\
+21:08**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+21:09**\
+Marcus Dallacqua\
+So, you know, I appreciate a really thoughtful evaluation of the
+software and our company and us. This wasn\'t a decision, I can tell
+this wasn\'t a decision that Pivot made lightly. And I appreciate that.
+I think there\'s wisdom in that. And it also, I think, has given time
+for the leadership to prepare the organization. And I can tell that
+you\'re prepared based on the fact of how you all came to the meeting
+today and the things that you said and the excitement that you have, but
+also the things that you\'re anticipating, which is great. So executive
+sponsorship, from a change management standpoint, extremely important.
+It\'s strong internal project management. We\'re going to talk a little
+bit more about those dedicated resources. On your end, sounds like.
+Sandy, you\'re on. You\'re leading the charge on your end, which is
+great.
+
+**\
+21:57**\
+Marcus Dallacqua\
+Definitely looking forward to working more with you. And then we\'re
+always kind of got our antennas up and trying to identify those NetSuite
+champions or power users in your organization. You probably already have
+them around D365 and you know, people who take the software, well, who
+are, you know, no matter what the software, they would be power users.
+You might have people in your organization that have used NetSuite
+before. So during the discovery sessions, we already kind of always have
+our antennas up trying to identify those people. And we spend a little
+extra time investing in them and getting them additional resources,
+which, by the way, netsuite has a ton of resources related to training.
+But we want to make sure that as you go through this implementation,
+we\'re identifying those people, we\'re investing time in those people.
+
+**\
+22:44**\
+Marcus Dallacqua\
+That way you have those resources internally in your company. Very
+important. And then that user adoption focus, having, you know, people,
+you know, there\'s always going to be people in an organization that are
+going to be resistant to change, and that\'s normal. And we want to make
+sure that we give those people extra time. A lot of times it really
+helps if you condition them. You know, when I was running my company and
+it was a fairly large company, we had almost 100 people. I had to prep
+my accounting team differently than my sales team. You know, I could
+tell my sales team, hey, we\'re going to change something. We\'re going
+to do it tomorrow. And everybody\'s like, yeah, let\'s do it. My
+accounting team, I would give them like a month. Like, hey, we\'re
+thinking about changing something. What do you think?
+
+**\
+23:32**\
+Marcus Dallacqua\
+Yeah, we\'re thinking about it some more. Hey, we\'re starting to put
+some preliminary plans in place in case we do decide to change it. It\'s
+a totally different strategy. And so you have to approach those groups
+of people in your organization a little bit differently. And so I just
+want you to know we acknowledge that we realize that. So we will support
+you as you\'re doing that and feel free to communicate with us if
+there\'s, you\'re having some of those internal challenges and there\'s
+anything that we can do, it\'s all part of user adoption, change
+management. It\'s almost like, it\'s like a little bit of therapy
+that\'s necessary going through this process, some emotional
+intelligence and emotional support that\'s needed. So we, again, we
+acknowledge all that and we\'re ready to support you in any way that you
+need.
+
+**\
+24:19**\
+Marcus Dallacqua\
+And then Stakeholder availability, those key personnel committed to
+discovery. And as I mentioned already on the call, I see those people
+here. So I feel really confident going forward that we have a recipe for
+success. We have our structured implementation methodology. You have the
+commitment from GSI and Proprio and our team members. And then I see
+that on your side as well, your readiness, your thoughtful evaluation of
+the software and those team members on your side that are committed. So
+I feel very confident going forward. As I mentioned before, success
+requires both teams working together. All right, let\'s talk about some
+of the reasons why projects fail. Those risks, we want to identify those
+ahead of time. So a couple things here, and some of these might be
+obvious. So inadequate discovery, so rushing through the discovery
+process, missing things that would be problematic.
+
+**\
+25:17**\
+Marcus Dallacqua\
+And it\'s one of the reasons why. And we\'ll talk a little bit more
+about the Discover methodology. We kind of do kind of loop through the
+process areas more than once. We don\'t just, we don\'t just talk about
+CRM or, you know, sales one time. We will talk about it a couple times,
+two, three, four times if necessary, until we make sure that we\'ve
+identified all the requirements. Another thing is scope creep.
+
+**\
+25:42**\
+Marcus Dallacqua\
+And.
+
+**\
+25:44**\
+Marcus Dallacqua\
+Typically what happens is when users get into the. It doesn\'t usually
+happen in Discovery. It actually usually happens after discovery when
+users of the system start to see more and more of what\'s capable inside
+of NetSuite and they start to see, oh, NetSuite has this. I can solve
+the problem that I\'m dealing with on a daily basis. I want to get that
+into the Phase one. That\'s where we typically see scope creep. You\'ll
+hear from us. We preach discipline.
+
+**\
+26:11**\
+Marcus Dallacqua\
+Like, once we get through discovery and we identified what we\'re going
+to want to achieve in Phase one versus what we might do after we go
+live, we\'re going to preach discipline because we want to make sure
+that we cross that finish line because there\'s so much functionality
+available to you, there\'s so many things that you can do, so many
+things you can automate and problems you can solve. Now the temptation
+is very strong to try and stick it into phase one. And that is that
+scope creep can be really detrimental because, you know, honestly, like,
+from our side, we want to make you happy. And so, like, there\'s part of
+us too that wants to do some of that. So Debbie\'s going to be here to
+help us make sure that we stay on track with our project timeline.
+
+**\
+26:54**\
+Marcus Dallacqua\
+And we\'re going to have to kind of just trust each other. Now, I\'m not
+saying that it never happens. And sometimes we identify something in the
+middle of the project. It\'s like, oh yeah, that\'s a big one. And so
+we\'ll talk about that. That\'ll be a change order. You know, it\'s
+going to require solution design. It\'s probably, it\'s going to require
+time, effort just to even scope that out. Because now we\'re outside of
+discovery, we have to kind of go back, scope it out, create a change
+order. So I\'m not saying it can\'t happen. I\'m just saying it\'s one
+of those things where we want to be really careful and there\'s a
+controlled process for all of that. And then the third one, there is
+unclear requirements. I feel pretty confident here we\'re kind of coming
+to the table.
+
+**\
+27:37**\
+Marcus Dallacqua\
+We already knew the business requirements when we built Orion. Now you
+might have something that\'s very specific and so we might have to take
+a deeper dive. You guys, you know, I know you pretty well because I\'ve
+been working with you now since late 2024. You do things a little bit
+differently. You are definitely more project focused than some of the
+other dealers that we\'ve talked to. And you even have like a project
+management system and task management system. A lot of dealers aren\'t
+necessarily doing it that way. So you do it, you kind of have the pivot
+way to do it. And of course we want to understand that a bit better. And
+the things that you\'re doing that are causing you to win, we want to
+support those things as well.
+
+**\
+28:17**\
+Marcus Dallacqua\
+So we\'ll take our time when it comes to this requirements gathering,
+that\'s a risk. And then just in general, these are not specific to you,
+by the way. These are just general risks when it comes to these type of
+implementations. Implementations. So lack of executive sponsorship, poor
+change management, insufficient internal resources, and then competing
+priorities. Out of all those, the ones, the one that like makes me the
+most nervous would be competing priorities because we\'re all busy and
+you probably have seasonality as well. And were going to, we\'re going
+to want to ask some questions around that and understand that a bit
+better. But those are just the things that we\'re always kind of keeping
+our eyes on. In general, these are types of risks and then technical and
+process risks.
+
+**\
+29:05**\
+Marcus Dallacqua\
+So just underestimating data migration, that\'s why we make sure that we
+cover it really well during discovery, so there\'s no surprises. And
+this happens often. So I know it\'s one of the reasons why, Sandy, you
+and I have already started talking about data migration. So we want to
+make sure that we cover this really well. Integration failures, we\'ll
+see if there\'s going. There\'s going to be integrations. I imagine
+there\'s going to be a handful, but those are things that we\'re going
+to want to be careful of. Of course, if there is an integration that
+already exists and a lot do with netsuite, we\'re going to want to
+leverage those typically inadequate testing. So we. There\'s issues that
+are discovered after Go Live. One of the reasons why we have our
+structured implementation methodology to. To minimize that risk and poor
+training.
+
+**\
+29:59**\
+Marcus Dallacqua\
+Again, why we have our structured training process. Let me just take a
+quick. Let me stop there for a moment because I\'ve done a lot here. Any
+questions or comments up to this point?
+
+**\
+30:17**\
+Sandra Rudloff\
+I actually have one, but it\'s probably way down the line, like scope
+creep normally. So, yeah, we\'re going to see things. We\'re going to
+see the shiny ball that we want to play with. After Go Live, what is
+your recommendation of trying to stay the course and then do, as you
+said, land and expand. Would you say being live six months and then we
+look at some of the other things were interested in or a year or what?
+
+**\
+30:45**\
+Marcus Dallacqua\
+No, typically we move right into a phase where we\'re doing. Where
+you\'re beginning to expand. The only thing I would say is if you get to
+go live and you\'re facing more challenges than you anticipate. Let\'s
+just hit the pause button on that. We can wait a little bit, but most
+clients, they move into phase two pretty quick because we\'ve identified
+things during the discovery that are. That are really necessary.
+
+**\
+31:14**\
+Marcus Dallacqua\
+Good question.
+
+**\
+31:17**\
+Marcus Dallacqua\
+All right, let\'s move on. So let\'s talk about our discovery process
+overview. So the way that we do this is we have structured sessions by
+functional area to ensure comprehensive requirements gathering. And
+you\'ve probably already. Well, I\'m sure because you have the calendar
+invites and those calendar invites, I believe, have agendas. So you can
+kind of already start to see the outline here. But the way that we
+engage you during those discovery sessions is there\'s a methodology to
+that as well. So we start first with it\'s kind of a show and then ask
+methodology. We talk to you first about the functionality that\'s
+available in netsuite. We\'ll present the system capabilities and we
+just typically do this in the PowerPoint slide. We don\'t get into a
+demo, we just talk about them.
+
+**\
+32:06**\
+Marcus Dallacqua\
+So, you know, in, let\'s say for marketing and that\'s we can do X, Y
+and Z. Related to marketing. We kind of do this just overview of the
+marketing capabilities. So you have an idea and then we talk about,
+we\'ll show you some process maps and workflows if they\'re applicable
+and then we\'ll demonstrate the art of the possible or talk about that
+for analyze before we analyze your needs. So we talk to you and give you
+like here\'s what you can do in that suite. You\'re probably already
+familiar with a lot of it but as a recap this is what you can do. Now
+with all that in mind, let\'s walk through and analyze how you\'re doing
+business now. Let\'s do it. And here\'s our analysis framework. We have
+a four step and four step questioning approach.
+
+**\
+32:49**\
+Marcus Dallacqua\
+So current state assessment, first of all, how are you doing this today?
+Then what are your goals and priorities? So objectives and strategies,
+functional requirements, capabilities, do you need technical
+requirements? How should systems integrate if applicable? It\'s not
+always going to be applicable but if it is, we\'re going to ask that
+question. So with every process area we\'re going to ask these four
+questions and there is a list of questions underneath each one of these
+here. So it gets pretty detailed. And it\'s important that we\'re
+following this methodology. And I am forced, I have to force myself to
+follow this and keep coming back to it because I like conversations more
+than a process. But the process actually gets us a better result.
+
+**\
+33:40**\
+Marcus Dallacqua\
+So.
+
+**\
+33:43**\
+Marcus Dallacqua\
+From time to time you\'ll see my team would like nudge me back to our
+outline into our process, which is good, I need that. So during our
+sessions, two hours long is what we\'re shooting for. And Sandy, you\'re
+kind of deciding who\'s going to be in attendance there. And then the
+deliverables for each process area will be a complete business
+requirements document for each process area. That\'s what\'s going to
+happen. So that\'s why we need that eight to 12 weeks because we\'re
+going to have this first round of discovery sessions where we kind of
+hit every single process area and as we\'re going through we\'re going
+to say oh that\'s a deeper conversation. Now we only have a two hour
+session right now.
+
+**\
+34:27**\
+Marcus Dallacqua\
+So what\'s going to happen is Debbie\'s going to take that as a, an
+action item to schedule a follow up session, probably rate that on the
+call. We\'ll say Sandy, who do we need to have in attendance for that
+deeper dive? And then she\'ll take the notes and then she\'ll follow up
+and she\'ll schedule those sessions. Then we\'ll come back with a brief,
+prepare to pick it up where we left off. We might end up doing that two
+or three times per process area, depending on how deep we need to go.
+But the end result is we have all the information that we need to create
+that business requirements document for that process area. Then we hand
+that off to you and your team, you analyze all that, review it and
+basically that document, it\'s pretty detailed and we collaborate on it.
+
+**\
+35:09**\
+Marcus Dallacqua\
+By the way, it\'s a Word document so you can go in there and you can
+make comments, we can communicate with each other, make the changes in
+the document. But the end goal there is it shows the your requirement
+and then it shows the orion functionality or NetSuite function that
+meets that requirement. And then we do a sign off on each business
+requirements document. So it\'s pretty detailed process but necessary
+make sure that we don\'t miss anything. And then as I mentioned, we\'ll
+be scheduling the deeper functional analysis sessions. Okay, so our
+overall implementation methodology, I already mentioned it once Dream.
+So discovery is what we\'re starting now. Comprehensive business process
+analysis and requirements gathering. The realize phase, there\'s so the
+solution design and system configuration. So because we pre configured
+Orion, there\'s actually not a lot for you to do in the space.
+
+**\
+36:08**\
+Marcus Dallacqua\
+So we really work with you a lot in Discovery. We\'re doing really a lot
+of the work in realize. We do some walkthroughs with you that\'s going
+to be kind of like with whoever you\'ve identified as your NetSuite
+admin or power users I should say. And we\'ll talk a little bit more
+about what that\'s going to look like in a moment. Then we get into
+educate. This is where we\'re meeting daily. We\'re doing process
+walkthroughs, user training, end user training as well. And then
+actualize is when we actually go live and we\'ll talk about what that go
+live looks like, whether you\'re going to be how long you\'re going to
+be running out your existing system or all the projects moving over.
+Those are the things that we\'re going to decide during discovery.
+
+**\
+37:00**\
+Marcus Dallacqua\
+And then we get into another phase after you go live maintained. So
+there\'s another 30 days of daily support after you go live that we give
+you, that\'s part of your implementation. After that we transition you
+to the Suite Care team and that is like ongoing support. And there\'s
+another support contract and we\'ll talk some more about that. Sending
+offline about what that looks like as far as how many hours and the
+costs associated with that and how many hours you would want for that\'s
+for ongoing support and optimization. So that would be the phase two
+things, but also just the daily things for your team if they\'re
+forgetting how to do something or they need some support or some, if
+something\'s broken, by the way, that\'s covered.
+
+**\
+37:43**\
+Marcus Dallacqua\
+Want to make sure that we take a moment and give some reassurance if
+something is not working properly in the system, whether that\'s
+NetSuite orion and there\'s a bug or something that is covered either by
+the fact that this is software as a service. So netsuite covers that and
+Orion covers that. Propriocloud Solutions, my software company, covers
+that. So anything that\'s broken or that needs to be addressed, we do
+that and we have service level agreements and we turn that around as
+fast as possible. And netsuite has their own service level agreements as
+well. You\'ll be working with the GSI team because we need, we\'ll have
+somebody on the support team that\'s going to triage that. So what I
+mean by that is we don\'t expect your users to know, let\'s just say,
+trying to think what might be a common one.
+
+**\
+38:32**\
+Marcus Dallacqua\
+Let\'s just say that we have an approval rule that we\'re expecting to
+be assigned to a quote, but it\'s not being assigned. So the approval
+Rule says there\'s \$5,000 or more in external design. Throw an approval
+rule, that approval rule on that order and assign it to the design
+manager. And for some reason that\'s not working properly. Well, we
+don\'t expect your team to know if that\'s a NetSuite issue or an Orion
+issue. So we\'re going to give you one point of contact for support and
+that support person at GSI is going to triage that and they\'re going to
+say is that a NetSuite issue or an Orion issue? And they\'ll create the
+ticket with the appropriate teams at that point. So we do simplify that
+for you and then we turn those around as fast as possible. Any questions
+about the implementation methodology?
+
+**\
+39:28**\
+Marcus Dallacqua\
+Drain. All right.
+
+**\
+39:37**\
+Marcus Dallacqua\
+Let\'S talk about the project timeline and milestones. How are we doing
+on time?
+
+**\
+39:45**\
+Marcus Dallacqua\
+Not too bad, not bad.
+
+**\
+39:49**\
+Marcus Dallacqua\
+All right, so key milestones. So the discovery phase, as I mentioned, I
+think it\'s going to take about eight to 12 weeks and that gets us all
+the way through the signing of the BRDs. The next phase is the Realize
+phase, system configuration and testing. So just to speak a little bit
+more about that, what we do is we take NetSuite, it\'s preconfigured,
+and we install our SuiteApp applications, which is Orion, and then we go
+through and make sure that everything\'s working properly. So we do our
+own testing, make sure, because it\'s a little complicated. There\'s
+actually three or four suite apps that we have to install. There\'s some
+interdependencies between the suite apps. There\'s some unique things
+about every account.
+
+**\
+40:31**\
+Marcus Dallacqua\
+Every account has a unique account number that we have to kind of go
+back into our suite app and make sure it\'s identified properly. So
+there\'s a little bit of that\'s going on. And then the other thing
+that\'s going to happen in the Realize phase, as I mentioned, is because
+netsuite and Orion, we\'ve preconfigured it, we still want to walk you
+through that configuration process because there\'s a lot of learning
+there. Inside NetSuite, there\'s a company setup feature, there\'s
+Enable features where you kind of go through and turn things on, turn
+things off. There\'s accounting preferences, sales preferences. There\'s
+all of this setup and configuration that we\'ve already done for you.
+But we want to walk you through and talk through that and make sure that
+you understand why we did it.
+
+**\
+41:14**\
+Marcus Dallacqua\
+And then if you ever need to make a change in the future, we want you to
+understand that feature or you want to turn something on, like
+sometimes. Here\'s a good example. Netsuite comes with purchase
+requisitions, so you can create a requisition and that requisition can
+eventually turn into a purchase order. A lot of companies don\'t use
+that feature.
+
+**\
+41:32**\
+Marcus Dallacqua\
+They don\'t.
+
+**\
+41:32**\
+Marcus Dallacqua\
+They just start with a purchase order. Some other companies, in fact,
+the last company that Chris and I worked in, they had requisitions
+turned on. Well, you might. Then there\'s. There are some benefits to
+it. Well, you might say phase one. We don\'t care about requisitions,
+but we want to at least explain to you that their requisitions are
+available to you and this is how you would turn it on. And here\'s some
+of the things to consider. So we just have some walkthrough sessions
+like that, where we walk you through, explain to you why we made those
+decisions, how you would find more information if you wanted to make new
+decisions about that.
+
+**\
+42:06**\
+Marcus Dallacqua\
+But again.
+
+**\
+42:09**\
+Marcus Dallacqua\
+The concept here is that you own the platform. Like, you own it, you
+understand it and you can administrate it going forward. Of course,
+we\'re always here to help and support you. And then the educate phase
+I\'ve already mentioned, and you\'ll see the timeline this is TBD. And
+the reason why the timeline is TBD, except for the actualized phase,
+which is our May 1st ambitious timeline, is we really don\'t know until
+we get through discovery what the timeline is going to look like. And so
+that\'s one of the deliverables of this whole process, is the discovery
+processes. The. There\'s four. There\'s four deliverables. I thought I
+had them in here. I\'m sorry. But I\'ll list them off and you\'ve got
+this recorded. So that\'s good.
+
+**\
+42:54**\
+Marcus Dallacqua\
+We\'ll make sure that we update our slide to make sure that we have
+these four called out but updated project timeline with these phases and
+projected dates, an updated sow, because you\'re going to make some
+decisions that might change the statement of work. Oftentimes you do,
+and that could go up or go down depending on what you decide you want to
+have in phase one versus future phase. The Data Migration strategy
+document. Basically, this is the document that\'s going to say this is
+how we\'re going to do data migration. We have three levels of data
+migration that we\'ll be talking through. And so that will be the third
+one. What\'s the fourth one, Chris? I think it\'s the. Oh, it\'s the
+brds. Sorry, yeah. Business Requirements Document and any. Let me just
+say one other thing about the BRDs.
+
+**\
+43:44**\
+Marcus Dallacqua\
+Any customizations that we identify during discovery will be part of the
+BRDs and there\'ll be a solution design, an architectural solution
+design, and even technical design, depending on if it is technical,
+that\'ll be part of that. So we give that to you all up front as well.
+So let\'s just take a moment actually and talk about customizations. Let
+me talk to you about the typical NetSuite implementation outside of
+Furniture, in maybe like in another industry like retail, e commerce.
+And a typical engagement would be we would meet, we would do discovery,
+we would meet with them and there would be a host of customizations that
+we would build out. I\'ve done implementations where we\'ve done more
+than 20 solution designs building out customizations. And so that\'s.
+That is very typical in the netsuite space. However, what we have is
+different.
+
+**\
+44:43**\
+Marcus Dallacqua\
+We\'ve kind of already built out the customizations because we have a
+whole custom piece of software, Orion, that lives inside of NetSuite. So
+we\'re fairly confident that we\'re going to cover the majority, the
+overwhelming majority of your requirements, likely 90%. And then
+there\'s going to be a handful of things that need to be customized. So
+I kind of do the 9010 rule. 90% of the business requirements will be
+covered. There will be customizations. I still anticipate some, but they
+will be, they\'ll be minimized. Now, you could surprise me, and that\'s
+okay because like I said, our typical NetSuite implementation, there\'s
+a host of them. So it\'s something that we shy away from at all. But
+we\'re hoping that we\'ve built the functionality in such a way that
+we\'re going to be able to. Well, there\'s really kind of two ways to do
+it.
+
+**\
+45:33**\
+Marcus Dallacqua\
+There\'s the adapt or accommodate. And this is one of the things we do
+ask during each of these discovery sessions is we\'ve identified a
+business process that you\'re doing that netsuite Orion does not have
+the functionality to cover. Or it\'s different enough that a decision
+has to be made. And that decision is going to be, are you going to adapt
+your business process to NetSuite Orion or are we going to accommodate
+your business process with the customization? We\'re open to both. And
+there\'s a number of questions that we\'re going to. If we\'re going to
+accommodate and build out something to support your business process, we
+certainly can do that. Especially if it\'s a business process that\'s
+causing you to win. We want to be careful that we don\'t force you into
+a box and take away your competitive advantage.
+
+**\
+46:27**\
+Marcus Dallacqua\
+So an important discussion that we\'ll have when those process
+variations come up during our alignment and, you know, maybe this. Let
+me just kind of loop back to. On discovery as I\'m thinking about it,
+because we know most of the business requirements, this discovery
+process is really more about alignment. It\'s really the. I really need
+to stick it in our slides because we really emphasize this because we
+look at how we\'re doing business inside NetSuite, we look at your
+business process and the question is, the way you\'re doing it will
+align with NetSuite Orion. So this discovery process is not like we\'re
+not going to go in there and say, so what is contract office furniture?
+
+**\
+47:16**\
+Marcus Dallacqua\
+What is that?
+
+**\
+47:17**\
+Marcus Dallacqua\
+We\'re not going to ask those questions. We already know what it is. But
+I can tell you in other NetSuite implementations, those are the types of
+questions that are being asked. So really this is more about alignment.
+This is how we know what contract office furniture is. We know what a
+SIF file is, we know the spec tools that you\'re using, the design tools
+that you\'re using. We understand all of that and we built this
+functionality to meet those requirements. Do they align? So that\'s
+really the big question that we\'re asking.
+
+**\
+47:44**\
+Sandra Rudloff\
+Hey, Marcus, you and I had a brief conversation about customizations and
+where sometimes it\'s absolutely unique to the dealer and others that
+might benefit other dealers. Can you talk a little bit about that?
+
+**\
+48:00**\
+Marcus Dallacqua\
+Yeah. So we\'ve had this come up a number of times where there\'s a
+customization that\'s asked for by the dealer. And the dealer says,
+like, this is, you know, we do something very specific here. We\'re
+asking you to do this customization. We look at that customization, we
+ask ourselves, wow, is this something that really should be part of the
+software, or is this something that\'s very unique to the dealer? So
+then we have that conversation with the dealer and it\'s. It\'s actually
+kind of gone both ways. There are times when the dealer says, no,
+actually this is proprietary to us. We don\'t ever want you to include
+that in the software. That\'s fine. So that\'s going to be a
+customization. Those types of customizations are actually going to be
+done by gsi.
+
+**\
+48:42**\
+Marcus Dallacqua\
+They won\'t be done by Proprio, they won\'t be part of the software. So
+that\'ll be part of the implementation team building out those
+customizations specific to Pivot. However, if we look at that and we
+say, wow, that\'s actually something that we should include in the
+software itself going forward, so all dealers can benefit from it.
+Pivot, how do you feel about that? And you\'re like, yeah, that\'s not
+necessarily proprietary. This is something that we\'ve been doing that
+we would like to share with the dealer base. Then Proprio will do that
+at no cost. We\'ll just include it into the software. So it could kind
+of go either way. Now we have had dealers say, hey, we really think that
+this should be part of your software.
+
+**\
+49:27**\
+Marcus Dallacqua\
+And we looked at and go, we really don\'t think it should be part of the
+software that\'s actually customization specific to you. Or
+strategically, we made a decision not to include that before for
+whatever reason. So it is a deeper conversation. But there is the
+possibility that can kind of go either way, where GSI builds it out for
+you as a customer customization or Proprio builds that out, puts it
+inside of the software. All right, Any other questions? Okay, well that
+brings us to really kind of our first discovery that we\'re going to
+jump into this discovery session. Well, let me ask you, I do have, I
+kind of did plan for a momentary break. Should we take like a five
+minute break, Sandy, or how do you feel? Or should we just keep going?
+
+**\
+50:23**\
+Sandra Rudloff\
+Let\'s do a five minute.
+
+**\
+50:26**\
+Marcus Dallacqua\
+Okay, let\'s come back at our time is 11:55, so whatever that is. Is
+that 9:55 your time or 55? We\'ll come back in five minutes. I\'m going
+to get some more water. Thank you.
+
+**\
+50:37**\
+Marcus Dallacqua\
+Okay.
+
+**\
+55:01**\
+Marcus Dallacqua\
+All right, welcome back. All right, so to the rest of the session,
+we\'re going to talk about your company, how you\'re set up. Currently
+we\'re going to Talk about how NetSuite Orion is pre configured and
+we\'re going to. This is, this is a little bit more high level. As I
+said. We\'re kind of easing into the discovery sessions here. Tomorrow
+we get a little bit more in depth with marketing. I think tomorrow\'s
+marketing. But our next session tomorrow we get a little bit more in
+depth because NetSuite Orion is preconfigured. It makes this session
+really easy. Let\'s jump in here. Let\'s talk about switches.
+
+**\
+56:00**\
+Marcus Dallacqua\
+Here we go.
+
+**\
+56:01**\
+Marcus Dallacqua\
+Current erp, Microsoft, Dynamics. Talk to me for a moment about the
+modules that you\'re using specifically with Dynamics.
+
+**\
+56:15**\
+Sandra Rudloff\
+Okay, let me open mine up just so I can make sure I get everything.
+
+**\
+56:19**\
+Marcus Dallacqua\
+Sure.
+
+**\
+56:22**\
+Sandra Rudloff\
+So pretty much it\'s. We aren\'t doing a lot, let\'s put it that way.
+The modules are accounts payable, receivable, avatax, Avalara. Obviously
+cash and bank management, credit and collections to some extent that\'s
+pretty minor. Obviously general ledger. I\'ll say human resources to the
+point of just employee setup type of things.
+
+**\
+56:54**\
+Marcus Dallacqua\
+Okay.
+
+**\
+56:55**\
+Sandra Rudloff\
+Inventory management, organization, admin procurement and sourcing,
+product information management. And that\'s really only to build the
+inventory items from our sift file.
+
+**\
+57:12**\
+Marcus Dallacqua\
+Yep.
+
+**\
+57:14**\
+Sandra Rudloff\
+Project management and accounting, sales and marketing. That\'s about
+it.
+
+**\
+57:25**\
+Marcus Dallacqua\
+Okay, let\'s confirm. Well, let me stick it. I\'ll stand Track is
+Dynamics integrated with anything currently?
+
+**\
+57:37**\
+Sandra Rudloff\
+Let\'s see. So obviously Avalara. I think everything we\'re doing is
+done as an export. Kevin, we don\'t use. There\'s no integration with
+adaptive. Right.
+
+**\
+57:52**\
+Kevin Baugh\
+Well actually there\'s a custom, we had like a custom export feature
+built into D365 to get into the, like the upload format. Format for
+adaptive. So other than that. Yeah, there\'s no integration. We had to
+get that custom built.
+
+**\
+58:10**\
+Sandra Rudloff\
+We do have a custom EDI program system manager that does both. You know,
+the inbound outbound EDI with Miller. That\'s the only one we do. We
+don\'t have any other manufacturers. Just run through one more time.
+Yeah, there\'s.
+
+**\
+58:29**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+58:34**\
+Sandra Rudloff\
+I think about Workfront. I think those are more related to Plan grid.
+Yeah. And exporting. So. Yeah, no, that\'s.
+
+**\
+58:47**\
+Marcus Dallacqua\
+That\'s it.
+
+**\
+58:49**\
+Marcus Dallacqua\
+Okay, so first thing, adaptive planning. We\'ve talked about this a
+couple times. Do you, do you want a demo of NetSuite planning and
+budgeting?
+
+**\
+59:01**\
+Kevin Baugh\
+Yes, that would be great.
+
+**\
+59:02**\
+Marcus Dallacqua\
+Okay, so, Debbie, that\'ll be one of our action items to do that before
+we make a decision on customizing some type of integration. We\'ll have
+them review that. There is also, Debbie, if you don\'t mind just looking
+this up. There is a already created integration with adaptive planning
+and NetSuite. And so we want to take a look at that as well, just so
+they have all the information. If you can get a white paper or something
+on that\'d be great.
+
+**\
+59:33**\
+Marcus Dallacqua\
+Got it.
+
+**\
+59:34**\
+Marcus Dallacqua\
+So to be clear, Martin, housing within.
+
+**\
+59:36**\
+Kevin Baugh\
+This, like, standard, what you\'re presenting to us, like, there\'s no
+standard planning tool embedded in this. Like we have to add on. Is that
+correct?
+
+**\
+59:44**\
+Marcus Dallacqua\
+Yeah, netsuite has planning and budgeting, but it is an add on.
+
+**\
+59:48**\
+Marcus Dallacqua\
+Okay. Yep.
+
+**\
+59:50**\
+Sandra Rudloff\
+And added cost or just a module we need to implement.
+
+**\
+59:54**\
+Marcus Dallacqua\
+It is an added cost.
+
+**\
+59:55**\
+Marcus Dallacqua\
+Yep. Yeah. Yeah.
+
+**\
+59:58**\
+Marcus Dallacqua\
+And so you\'ll have to take a look at what you\'re. Look, you know, what
+you\'re spending with adaptive planning versus planning and budgeting
+and see what makes sense. I don\'t. I could tell you, out of all the
+dealers that I\'ve talked to, I think only one or two are using
+something as sophisticated as adaptive planning. Which kudos to you that
+you\'re doing that. Most, most dealers aren\'t, but netsuite fortunately
+has the planning and budgeting tool. But if you\'re. It\'s one of those
+things where, like, if you\'re married to adaptive planning, then
+there\'s the integration for it.
+
+**\
+01:00:32**\
+Marcus Dallacqua\
+Great.
+
+**\
+01:00:32**\
+Marcus Dallacqua\
+All right, let\'s. And then I just wanted to mention, Debbie, Chris can
+help you with some of that too. You need some help with getting some of
+that. What I mean by that is feel free to reach out to him and boss
+Morel a little bit for that.
+
+**\
+01:00:50**\
+Marcus Dallacqua\
+Thank you. Yeah. All right.
+
+**\
+01:00:54**\
+Marcus Dallacqua\
+I had another List of what we had kind of aggregated during our
+conversations that we had during the pre sales process on what you\'re
+using. So I just want to validate this and make sure. See if it\'s. If
+this is still the case and then if there\'s anything else that\'s been
+added. So this is more like the full inventory of all the software that
+you\'re using. So Microsoft Dynamics, which we just covered, then Adobe
+Workfront. That\'s still the case. IQ Coordinator. Okay, and let\'s just
+talk about that for a minute because I know we\'ll have. We\'ll do a
+deeper dive on this on the operations side, but is there something
+specifically you\'re using that for?
+
+**\
+01:01:40**\
+Marie Guerrero\
+We\'re using it.
+
+**\
+01:01:41**\
+Sandra Rudloff\
+Oh, sorry. Go ahead, you do it.
+
+**\
+01:01:43**\
+Marie Guerrero\
+Are you asking about IQ Coordinator?
+
+**\
+01:01:45**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+01:01:46**\
+Sandra Rudloff\
+Or.
+
+**\
+01:01:46**\
+Marie Guerrero\
+Okay, yeah, that\'s what I thought. So we\'re using it specifically for
+receiving tickets, like to track product that\'s coming into the
+warehouse. We create our receiving tickets inside of IQ Coordinator.
+We\'re using it for scheduling and dispatching of our projects. We\'re
+also using it for the daily progress reports.
+
+**\
+01:02:03**\
+Marcus Dallacqua\
+Okay, what about estimating? Are you using that to estimate?
+
+**\
+01:02:07**\
+Marie Guerrero\
+We are using it to estimate as well as to track our product that comes
+back to the warehouse. So returns to warehouse, returns to inventory.
+
+**\
+01:02:16**\
+Marcus Dallacqua\
+Okay, so we cover all that functionality except the estimating. So let
+me just ask a couple more things about estimating. Are you using the
+included rate tables?
+
+**\
+01:02:27**\
+Marie Guerrero\
+We are not. Okay, we\'re not using the included rate tables. They do
+come. We have done an exercise recently and they do come very close to
+the tables that our estimator does use.
+
+**\
+01:02:40**\
+Marcus Dallacqua\
+Okay, that\'s interesting. Okay, so you\'re. Any other functionality
+that you might be using, a forum?
+
+**\
+01:02:48**\
+Amanda Beaudin\
+I believe that\'s everything.
+
+**\
+01:02:49**\
+Marcus Dallacqua\
+Okay, great.
+
+**\
+01:02:51**\
+Sandra Rudloff\
+You track time in there, right?
+
+**\
+01:02:54**\
+Marie Guerrero\
+We do.
+
+**\
+01:02:55**\
+Marie Guerrero\
+We do track time in there, but it\'s not. I mean, it\'s not transferred
+to anything. You know what?
+
+**\
+01:03:06**\
+Sandra Rudloff\
+We.
+
+**\
+01:03:06**\
+Marie Guerrero\
+I\'m sorry. You know what? Yes, we are tracking time and we are
+comparing it to quoted versus actual. Yes, you\'re correct.
+
+**\
+01:03:14**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:03:15**\
+Marie Guerrero\
+I was thinking about something completely different.
+
+**\
+01:03:18**\
+Sandra Rudloff\
+Do you use that data then for like an upload into UKG or do they do
+their own time cards differently?
+
+**\
+01:03:25**\
+Marie Guerrero\
+We don\'t do it. So it\'s double entry. We don\'t upload it into ukg.
+But what we do, Sandy, is we do upload it to D365.
+
+**\
+01:03:34**\
+Marcus Dallacqua\
+So.
+
+**\
+01:03:35**\
+Marie Guerrero\
+Yeah, and that is something that we\'re looking to get away from with
+moving to Orion.
+
+**\
+01:03:42**\
+Marcus Dallacqua\
+Yeah, gotcha.
+
+**\
+01:03:45**\
+Marcus Dallacqua\
+So we\'ll definitely, we have these notes and we\'ll definitely include
+that in our operations session. And it sounds like we cover all of the
+functionality except for the estimating, but you\'re actually not using
+the rate tables at least at this point to do the estimating. So.
+
+**\
+01:03:59**\
+Marie Guerrero\
+Yeah, we\'re manually entering it based on.
+
+**\
+01:04:01**\
+Amanda Beaudin\
+Our estimators own formula.
+
+**\
+01:04:04**\
+Marcus Dallacqua\
+Okay, very good.
+
+**\
+01:04:07**\
+Marcus Dallacqua\
+And that might even be something that we can support inside of Orion. So
+we\'ll talk some more about that. All right. Marketing and financial
+planning. HubSpot for marketing and CRM. Is that the case? Okay, and
+when we say CRM we\'re talking specifically about opportunity
+management, correct. Okay, we talked about adaptive planning already.
+You\'re using WIX for E commerce. Yes, but there is that manual entry
+into D365 for the orders.
+
+**\
+01:04:41**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+01:04:42**\
+Marcus Dallacqua\
+So let\'s just stick there for just a quick moment. Chris, maybe you can
+do some digging to see if the netsuite.
+
+**\
+01:04:53**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+01:04:54**\
+Chris Trumble\
+So are you actually converting in wix or is it more of like a quote
+building tool? Are they actually transacting?
+
+**\
+01:05:03**\
+Sandra Rudloff\
+They\'re doing an actual transaction. We have multiple sites. Some are
+like a B2B where client can enter a purchase order. The others are
+traditional credit card charges but it\'s all through there. And then
+we\'re manually entering the order into D365.
+
+**\
+01:05:21**\
+Chris Trumble\
+Do you have a URL of one of the main or one of the WIX sites that I can
+take a look at?
+
+**\
+01:05:27**\
+Sandra Rudloff\
+Sure, I\'ll find one and I\'ll email it to you or put in the chat.
+
+**\
+01:05:31**\
+Marcus Dallacqua\
+Thank you.
+
+**\
+01:05:34**\
+Sandra Rudloff\
+And we are definitely interested in the E commerce side, you know, once
+we go live to take a look at that.
+
+**\
+01:05:40**\
+Marcus Dallacqua\
+Okay, one thing that a couple things to consider and we can if you want
+to. Sandy, we could talk about this in another session. We\'ll have to
+figure out which session stick it in.
+
+**\
+01:05:51**\
+Marcus Dallacqua\
+But.
+
+**\
+01:05:54**\
+Marcus Dallacqua\
+We can see if the NetSuite connector supports Wix. I don\'t remember. I
+don\'t remember that it does.
+
+**\
+01:06:00**\
+Chris Trumble\
+I don\'t think it does, but I.
+
+**\
+01:06:02**\
+Marcus Dallacqua\
+Don\'T think it does. But there are other ways to get those orders into
+netsuite. We have to talk a little bit more about how your inventory is
+set up because these websites for standards programs pretty much.
+
+**\
+01:06:16**\
+Sandra Rudloff\
+Yeah.
+
+**\
+01:06:16**\
+Marcus Dallacqua\
+Yeah. Okay.
+
+**\
+01:06:17**\
+Marcus Dallacqua\
+Is it stuff you\'re inventory and are you drop shipping?
+
+**\
+01:06:19**\
+Sandra Rudloff\
+Drop shipping.
+
+**\
+01:06:20**\
+Marcus Dallacqua\
+Drop shipping. Okay, so we\'ll have to talk a little bit about the
+inventory items set UP and the SKUs and things like that. But it is
+possible to even do this with NetSuite. Has what\'s called the email
+plugin. And we have done this. It\'s not, it\'s not technically an
+integration, but it\'s basically the E commerce site will just send an
+order confirmation to the NetSuite email plugin and then the NetSuite
+email plugin takes that information and creates, automatically creates a
+sales order from it inside NetSuite. So it\'s not like the most
+sophisticated integration, but it is kind of a nice stop gap or at least
+better than manual entry. You could even put it in some type of
+unapproved status somebody could still go through and double check it
+and approve it.
+
+**\
+01:07:06**\
+Marcus Dallacqua\
+We could attach the PDF document to it so they have that for reference
+but get you most of the way there. So yeah, I think that\'s something to
+consider.
+
+**\
+01:07:15**\
+Chris Trumble\
+I think that normally wix has like an app store and several different
+companies have built like a sending unit almost to send stuff over to
+netsuite. But the ideal state would be that the integration is handled
+in netsuite and brings over WIX data. But we\'ll have to explore that a
+little bit.
+
+**\
+01:07:32**\
+Sandra Rudloff\
+Yeah, because that, I mean right now we do about 150, 200 orders a
+month. So whatever we can do to help streamline.
+
+**\
+01:07:40**\
+Marcus Dallacqua\
+Yeah, yeah, for sure.
+
+**\
+01:07:42**\
+Chris Trumble\
+That\'s our background especially so we\'re passionate about the E
+commerce side of things.
+
+**\
+01:07:53**\
+Marcus Dallacqua\
+So, Debbie, we\'ll just have to find a slot for another session
+specifically about E Commerce. Autodesk Construction Cloud. The note I
+had here was for Walls division. But you, are you using this for
+furniture installation as well? We are, yes. We use this on really a
+specific functionality of it, which is they have a way to do a lot of
+great site documentation. So we use it on both divisions. The
+construction Solutions division, the Walls division uses it much more
+deeply. They use it to manage financials, change orders, things like
+that. On the furniture side, we\'re a little bit more simplified in our
+use case.
+
+**\
+01:08:33**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:08:34**\
+Marcus Dallacqua\
+So definitely we\'ll talk about that during the operations session or
+maybe even have a deep dive on just that because we have built into our
+field service app floor plan management and the ability to create punch
+items on the floor plan and tasks and collect images associated with the
+floor plans. So maybe that might be sufficient for furniture.
+
+**\
+01:08:57**\
+Marcus Dallacqua\
+It may be.
+
+**\
+01:08:58**\
+Marcus Dallacqua\
+I\'m really excited to see that. Okay, great. So we\'ll do a deeper dive
+on that one as well. Abalara. So tax calculation compliance, any
+concerns with Avalara at this point?
+
+**\
+01:09:13**\
+Marcus Dallacqua\
+Are you good?
+
+**\
+01:09:15**\
+Sandra Rudloff\
+Other than it\'s expensive? No, it\'s Fine.
+
+**\
+01:09:17**\
+Marcus Dallacqua\
+Yeah. Okay.
+
+**\
+01:09:18**\
+Marcus Dallacqua\
+Let\'s. Let\'s have the Avalara conversation, which we\'re Avalara
+partner. Sean and I were recently at dinner with one of the VPs at
+Avalara. So we love Avalara. However, I do want to make sure you know
+that NetSuite has out of the box, the SuiteX platform, the sweet tax
+platform does a great job of managing your nexuses, doing the tax
+calculation right down to like all the tax groups. It itemizes it down
+to the municipality. It does tax exempt management as well, right inside
+of the NetSuite platform. So. And that comes standard with the platform.
+There\'s no additional cost. So when I\'ve talked with clients in the
+past and I\'ve actually moved clients on Avalara and I\'ve moved them
+off Avalara on the suitetax, it really comes down to the service that
+Avalara is providing for you.
+
+**\
+01:10:13**\
+Marcus Dallacqua\
+Now, if they\'re, if you\'re using them to manage or, sorry, to manage
+the tax registrations, do your tax filing, manage your economic nexus
+and things like that, Avalara and the automations and the service they
+provide might very well be the best fit for you. If you\'re already
+registered in all the states that you need to be registered in and you
+potentially have a local company or somebody you work with that could do
+your tax filing. It might be worth your while to look at if you should
+use Sweet tax or not.
+
+**\
+01:10:47**\
+Sandra Rudloff\
+Kevin, that\'s probably something we should talk about because I know
+Sensiba was trying to sell us on the idea of having them file the tax
+returns. I don\'t know how much they would charge or anything, but I
+mean, if that\'s probably one of the biggest features of Avalara that we
+like is the filing, because that does take a while to compile.
+
+**\
+01:11:08**\
+Marcus Dallacqua\
+So.
+
+**\
+01:11:09**\
+Sandra Rudloff\
+Yeah, didn\'t hurt to take a look.
+
+**\
+01:11:12**\
+Marcus Dallacqua\
+Yep.
+
+**\
+01:11:13**\
+Marcus Dallacqua\
+And so let\'s just have a session on that as well. When we get to
+financial management, we\'ll have another session on taxes. Yeah,
+there\'s. And that\'s. We come standard with some of the tax reporting
+that you need, so definitely something to consider, especially because
+Avalara is not. It\'s expensive. It is. Who in your company is working
+with Avalara? Because you likely have account inside of Avalara and you
+probably have a rep that you\'re working with.
+
+**\
+01:11:50**\
+Sandra Rudloff\
+I was, but I\'m actively moving that over to Kevin and his team.
+
+**\
+01:11:55**\
+Marcus Dallacqua\
+Okay. Okay. So you guys know it intimately then already.
+
+**\
+01:11:58**\
+Sandra Rudloff\
+Yeah.
+
+**\
+01:11:59**\
+Marcus Dallacqua\
+We don\'t need to bring somebody else in for that conversation.
+
+**\
+01:12:01**\
+Marcus Dallacqua\
+Okay, great.
+
+**\
+01:12:04**\
+Marcus Dallacqua\
+Docentric custom email templates and automation.
+
+**\
+01:12:10**\
+Sandra Rudloff\
+One more info on that?
+
+**\
+01:12:12**\
+Marcus Dallacqua\
+Yeah, I do. Sorry.
+
+**\
+01:12:14**\
+Sandra Rudloff\
+So no, D365 is pretty basic when it comes to emailing. So say a quote,
+it\'s really, you don\'t have a lot of flexibility. So what Docentric
+does is one, it\'ll make the. The subject can be dynamic. So it\'s like,
+you know, Sam, sending an order confirmation to a client. It\'ll be, you
+know, our quote, your purchase order number for your project name, blah.
+So the subject is relevant. The, the text we want you, we have it, you
+know, order confirmation goes to the sales rep, to a mailbox for
+movement into workfront. It\'ll send it to, you know, so you can have
+multiple people receive it, you can have multiple recipients of the
+client, that sort of thing. It just, it filled the gap that D365 just
+doesn\'t have pretty email capability.
+
+**\
+01:13:10**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:13:12**\
+Marcus Dallacqua\
+So we\'ll definitely want to. When we get to the order management
+session and we talk through the PDF composer and the functionality that
+exists there, and then also the native functionality that NetSuite
+provides, with the ability to create email templates that have tags that
+pull in some of that personalization information, it\'s possible you
+might just be able to use NetSuite native and the combination of that in
+our PDF composer. And then the other thing that we can walk you through
+is we used to spend a lot of time with another service creating email
+templates because NetSuite gives you the framework to create that. And
+you can, there is a WYSIWYG and, or you can go into the code and create
+from the code perspective. But not nearly as nice as some of these other
+services that focus on that.
+
+**\
+01:14:02**\
+Marcus Dallacqua\
+Well, since AI came on the scene, all that need has really kind of gone
+away. Like we just use AI just to generate the email templates now. I
+mean, we can even take a screenshot of something and give it to the AI
+and say, hey, recreate this using HTML and CSS or email and make it
+responsive and everything. So some of those requirements have kind of
+gone away because of AI. I don\'t know if you guys have had a chance to
+use that in your organization or not, but. Or if you want a demo of
+that, we can certainly provide that. But hopefully just using what we
+provided inside Orion will be sufficient here. All right. Microsoft
+Fusion System integration tool. Stoneridge.
+
+**\
+01:14:49**\
+Sandra Rudloff\
+Yes, I don\'t know what stoneridge is. I\'m wondering if you met Stone
+Donut who did our EDI work.
+
+**\
+01:14:57**\
+Marcus Dallacqua\
+It was on a phone call somewhere, but. Okay, so this one might be
+scratched or we\'ll do some more checking on it.
+
+**\
+01:15:04**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:15:05**\
+Sandra Rudloff\
+And Fusion was really between workfront and D365. But I not sure what
+all. I think that\'s mostly taking info from our data warehouse to
+create reports within Workfront.
+
+**\
+01:15:23**\
+Marcus Dallacqua\
+It does that and it also runs some integrations between things like
+Autodesk Construction Cloud into Workfront. It is really our conduit for
+anything in and out of Workfront.
+
+**\
+01:15:36**\
+Sandra Rudloff\
+Brian, does it also pull from HubSpot?
+
+**\
+01:15:42**\
+Marcus Dallacqua\
+There is a touch point in HubSpot where it pulls a number like links a
+HubSpot number back and forth to connect some data. But I think it\'s
+relatively minimal. I don\'t think it does too much. So this one though
+is system critical really because you\'re integrated with.
+
+**\
+01:16:02**\
+Marcus Dallacqua\
+Workfront.
+
+**\
+01:16:04**\
+Marcus Dallacqua\
+That one until Workfront disappears. Yeah, yeah, gotcha.
+
+**\
+01:16:11**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:16:12**\
+Marcus Dallacqua\
+And then as we understand the key pain point, system fragmentation,
+manual data entry, performance issues.
+
+**\
+01:16:18**\
+Sandra Rudloff\
+Are there any performance issues with D365? Totally big orders just kill
+the system.
+
+**\
+01:16:26**\
+Marcus Dallacqua\
+Okay, yeah, we\'re going to talk about Orion specifically with that and
+then the software licensing costs of course. Okay, good. Got a good
+inventory there. We got some follow up sessions.
+
+**\
+01:16:39**\
+Marcus Dallacqua\
+To.
+
+**\
+01:16:40**\
+Marcus Dallacqua\
+Come back to some of that stuff. I think this one was just out of order
+because we already did that. So let\'s talk about departments. As I
+mentioned inside of NetSuite, Orion things are pre configured now. That
+does not mean they can\'t change. In fact it\'s meant to change. It
+really is. Just like here\'s the baseline, let\'s where do we need to go
+from here? So the way that we have departments configured right now is
+corporate design, sales and they are kind of that parent child. So
+underneath corporate you have accounting, finance and I have to read
+them all after you can see them. How is this, how does this currently
+align with how you\'re organized now? And did you have any plans to make
+any organizational changes with this implementation? Are you going to
+use this as an opportunity to make changes?
+
+**\
+01:17:30**\
+Kevin Baugh\
+There could be. Well, sorry, not at this level but just like the way we
+break out the business or divisions, et cetera, that\'s one thing that
+we\'re considering looking at to make sure that\'s optimized. But as far
+as like the structure and all, that\'s pretty standard right there.
+
+**\
+01:17:43**\
+Marcus Dallacqua\
+Okay, so what I\'m going to do is have Chris just send you a list of
+this and a couple other things after the call. It sounds like it should
+go to you, Kevin. So we\'ll send it to you. That way you have it so you
+can think on it. We do have divisions as well. So right now we just have
+divisions broken down by business units. So furniture, flooring, walls
+is what. What it ships with, of course, very easily, Very easy to change
+all this. Can you just remind me again? I know furniture and walls. What
+are the other business units in the organization?
+
+**\
+01:18:17**\
+Sandra Rudloff\
+Well, we kind of break it out like by the type of sales. So we have, you
+know, a healthcare division. So yeah, we don\'t do that kind of
+breakout. But we do have. We do have a division of our walls
+construction solutions. But it\'s. We\'ve got the venture, which is more
+new business. Am I going blank on this? Enterprise service operations.
+So we have six divisions and then we also have locations, which is each
+of our sales offices.
+
+**\
+01:18:50**\
+Marcus Dallacqua\
+Great.
+
+**\
+01:18:51**\
+Marcus Dallacqua\
+Yeah, we\'re gonna do locations in a minute. But you brought up an
+interesting one. So when you think about the different. So divisions are
+primarily used for tracking revenue. So think about these like as your
+major product lines. So that\'s why we have flooring, furniture, walls.
+And Some people have AV&E commerce and office supplies and janitorial.
+And those are kind of the. That\'s kind of where we\'re thinking about
+that. In addition to divisions, we do track revenue by vertical. And
+those verticals would be healthcare, education, government and things
+like that. Is that what, is that what you guys call divisions?
+
+**\
+01:19:31**\
+Sandra Rudloff\
+Yeah. Okay, so in D365, it\'s called Dimensions. And you can have as
+many as you want for the same type of thing from, you know, location,
+the vertical market to the salesperson can be a division there. A
+project, a major project could be a, you know, a breakout. So that\'s
+actually a great question because you know it from forecasting to the
+end result and adaptive. Having the flexibility of those different
+groupings is really important.
+
+**\
+01:20:03**\
+Marcus Dallacqua\
+Right.
+
+**\
+01:20:03**\
+Kevin Baugh\
+And to be clear, it\'s not just revenue, Right. It\'s expenses, it\'s
+profitability, It\'s. It\'s basically a P and L for each of these
+groups, not just the sales.
+
+**\
+01:20:12**\
+Marcus Dallacqua\
+Yeah. Yep, perfect.
+
+**\
+01:20:16**\
+Marcus Dallacqua\
+So. So netsuite has. It sounds like almost the exact same thing. So
+dimensioning. We\'ll talk about that when we get to the chart of
+accounts as well. Because. And, and so it sounds like this might work
+out really well because you probably have a pretty flat chart of
+accounts because you\'re probably using dimensioning at the. On your
+financial reporting to be able to get the right Reporting that you want
+sounds like. Because it sounds like they have the base components for
+that. So what we do is we have netsuite has a feature called custom
+segments, which would be the same thing as a dimension, but basically
+you can create whatever you want.
+
+**\
+01:20:49**\
+Marcus Dallacqua\
+And we have a number of them pre created, including the verticals, the
+sales locations, the projects, and all of those are visible to you on
+the profit and loss statement or the balance sheet.
+
+**\
+01:21:03**\
+Marcus Dallacqua\
+And that way you can have a.
+
+**\
+01:21:04**\
+Marcus Dallacqua\
+P and L by any of those different types of dimensions. So it sounds very
+similar to how Microsoft is doing it.
+
+**\
+01:21:12**\
+Sandra Rudloff\
+My question is it, do you set up clients that way or salespeople or, you
+know, because we\'ll often have to change it on the fly for whatever
+reason. I\'m just kind of curious what the hierarchy is on yours.
+
+**\
+01:21:27**\
+Marcus Dallacqua\
+Yep.
+
+**\
+01:21:28**\
+Marcus Dallacqua\
+So you could set that all up on the customer level and then when you get
+to a transaction, it inherits it from the customer. But if you need to
+change it on the transaction, you can do that as well. So you could have
+a healthcare customer, but you\'re doing a transaction and it falls in a
+different category. That\'s fine. And then one other thought there is,
+you don\'t have to do it on the customer level. You can just do it on
+the transaction if you want to. It seems like most people do it on the
+customer. It flows to the transaction and they can make their
+adjustments there. So what we\'ll do though is we\'ll give you a list,
+we\'ll send it over to you, Kevin and Sandy of all those things we just
+talked about.
+
+**\
+01:22:09**\
+Marcus Dallacqua\
+We\'re going to talk about a couple more here, but yeah, performance
+tracking, commission calculations by division. A lot of times the
+commission plans are associated to what we\'re calling divisions here.
+Actually, netsuite calls them classes by default. We\'ve renamed it to
+Divisions because in talking with dealers, that\'s how they typically
+call these things here, these business units. But a lot of times these
+commission plans are associated with specific divisions. Like you have
+commission plan that\'s specific to flooring, but the sales rep might
+have a commission plan. The same sales rep. I have a commission plan
+that\'s different for furniture. Do you guys have that in your
+organization?
+
+**\
+01:22:54**\
+Sandra Rudloff\
+We, the construction solutions division does have their own plan, but
+everyone else shares the others.
+
+**\
+01:23:02**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:23:04**\
+Marcus Dallacqua\
+Okay, so we\'ll talk a little bit more about how we should structure
+this. Like we don\'t have to. Doesn\'t have to be furniture, it doesn\'t
+have to be flooring. You could do Furniture construction, or like it
+could be whatever you want. How so? Maybe, maybe if you give us a list
+of all those dimensions and how you\'re doing it currently, and then we
+could have a quick review session. Because we can either just simply
+match exactly how you\'re doing it, or as we review that review, if
+there was some change that you wanted to make, just sounds like there
+might be something you want to consider. That\'s the time to consider
+it. We can make sure it comes into netsuite that way onto the next one.
+And then you brought up Sandy Location Management, which is great. So we
+track it.
+
+**\
+01:23:52**\
+Marcus Dallacqua\
+Warehouse locations and sales locations. Would you have the need to
+track it any other way than that?
+
+**\
+01:23:58**\
+Sandra Rudloff\
+No, but our warehouse location is also a sales location. Is that an
+issue?
+
+**\
+01:24:03**\
+Marcus Dallacqua\
+Nope.
+
+**\
+01:24:05**\
+Marcus Dallacqua\
+So you would just have the same. Same one for both. But this, so this
+gives you the ability to say, hey, it\'s coming out of, you know, the
+warehouse location is X, but I want the. My sales. Sorry, the warehouse
+location is X, but I want my sales location to get the credit.
+
+**\
+01:24:21**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+01:24:22**\
+Sandra Rudloff\
+So really one of the things we use that for is for Avalara or Schedule
+C, I believe it is where you have to. For California tax filing. So does
+that, the location, does that also transmit over to Avalara?
+
+**\
+01:24:39**\
+Marcus Dallacqua\
+Yeah, yeah, the physical location.
+
+**\
+01:24:41**\
+Marcus Dallacqua\
+Yep, yep.
+
+**\
+01:24:45**\
+Marcus Dallacqua\
+Yeah, really, the sales location, it\'s one of those custom segments
+that we\'ve created. And really the primary purpose is for reporting
+from a. From a revenue and potentially expenses perspective as well.
+
+**\
+01:24:59**\
+Sandra Rudloff\
+Okay.
+
+**\
+01:25:02**\
+Marcus Dallacqua\
+So we\'ll get one of your to dos. I don\'t know if that\'s going to be
+you, Sandy or somebody else, but all those dimensions, that would be
+great if you can get that to us. And then we\'ll organize all that with
+ours and we\'ll have a session where we kind of sit down and get through
+all that.
+
+**\
+01:25:15**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:25:17**\
+Marcus Dallacqua\
+And did you say you had six warehouse locations? Did I hear that right?
+
+**\
+01:25:20**\
+Sandra Rudloff\
+No, six locations, two warehouses.
+
+**\
+01:25:24**\
+Marcus Dallacqua\
+Okay, gotcha. So we\'ll get that list from you as well. We don\'t need
+to answer all these right now. And then moving on to the chart of
+accounts, as I just mentioned, the. What netsuite calls the Agile chart
+of accounts and it sounds very similar. So dimensioning and
+segmentation. So in what we reason why we like this is because you
+typically have a flatter chart of account structure. So. And I do want
+to talk about this in light of the Solomon Coil reporting and some of
+their recommendations. So it sounds like you guys are already doing
+this, but let Me just let me ask a couple more questions. Clarifying
+questions. Do you have GL accounts that represent your locations as
+well?
+
+**\
+01:26:11**\
+Sandra Rudloff\
+I\'ll let Kevin take that.
+
+**\
+01:26:12**\
+Kevin Baugh\
+No, we don\'t have location specific GL accounts.
+
+**\
+01:26:16**\
+Marcus Dallacqua\
+Good. Yeah.
+
+**\
+01:26:18**\
+Marcus Dallacqua\
+So I think you guys are set up very similar how we would set up in
+Netsuite. And so one of our action items that Chris is going to be
+sending to you as well is going to be the default chart of accounts,
+kind of the baseline chart of accounts that we have for setup. So we\'ll
+send that to you along with all the other stuff for your review. And
+we\'ll, we want to give it to you ahead of time. So when we have that
+next session where we kind of go deeper and do all of our comparisons,
+you can kind of take a look at it because we feel like we\'ve done a
+very good job. But we, what we\'re trying to do is push dealers to use
+the dimension and segmentation that you guys are already familiar with.
+
+**\
+01:26:57**\
+Marcus Dallacqua\
+So I think this is going to work really well. Most dealers are not
+familiar with that at all. And so they will have, you know, upwards of a
+,thousand and more GL accounts because they need to have one for every
+location or for every division or every combination thereof. Like, so
+they don\'t have. Because they don\'t have the access to the dimension
+and segmentation in core or chameleon or team design. So, so let me. So
+with that in mind, you\'re going to be really probably aligned closely
+to how we\'re already doing it. I\'m going to jump through a couple of
+these things because I think you\'re already simplified. But I do have
+questions about how you\'re doing the Solomon Coil reporting or if
+you\'re doing it.
+
+**\
+01:27:44**\
+Kevin Baugh\
+Yeah, we are doing it. And it\'s, it\'s a tedious process. We\'ve come
+up with our own ways each year to kind of simplify this, but it\'s.
+Yeah, it\'s a beast. But I mean, again, we\'re, we\'ve done it for so
+many years now that we\'re kind of used to it. But yeah, okay, whatever
+you can do from this from your side to streamline and simplify this for
+all dealers would be very much appreciated.
+
+**\
+01:28:11**\
+Marcus Dallacqua\
+Yeah, it\'s definitely on our roadmap. And we have talked with them a
+number of times about this. And the problem is the way that their
+recommendations are kind of old school. Right. Because they\'re assuming
+that you have a very Complicated, detailed GL structure with all the
+locations and divisions and everything and the combinations of those.
+And that\'s. We don\'t. NetSuite and Microsoft D365 don\'t have that. So
+I just wanted to make sure. Because we vary from their best practices
+around the chart of accounts, we deviate from that.
+
+**\
+01:28:50**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+01:28:51**\
+Kevin Baugh\
+My personal opinion on this is way too granular than need be. I think
+that we\'re overdoing it. I mean, I think as far as benchmarking to
+dealers across the country, we could really simplify this. And maybe
+this is an opportunity to do that.
+
+**\
+01:29:03**\
+Marcus Dallacqua\
+To do that. Yeah. Agreed. Okay.
+
+**\
+01:29:08**\
+Marcus Dallacqua\
+So sounds like we\'re. We\'re all in alignment here, which is nice. So
+we\'re going to get you that chart of accounts in Excel. Later on,
+we\'ll talk about the Prism mapping review. We do want to build a
+utility for this. It\'s on our roadmap, so we\'ll eventually. We\'ll
+eventually do it, but I think we\'ll be. It\'ll be interesting to have
+that session where we talk about the chart of accounts. I think we\'re
+gonna be pretty aligned. Okay, item setup. Let\'s talk about how you\'re
+set up. Currently in D365, I think I understand it. I believe they\'re
+all inventory items. You probably have a very large item catalog as
+you\'re. When you. When you\'re importing a SIF file, you\'re likely
+either recalling the item that exists or creating a new one. Is that
+correct?
+
+**\
+01:29:55**\
+Marcus Dallacqua\
+Correct. Okay.
+
+**\
+01:29:59**\
+Marcus Dallacqua\
+Do you have any idea how large your item catalog is right now?
+
+**\
+01:30:04**\
+Sandra Rudloff\
+I\'d be surprised if it was less than a million.
+
+**\
+01:30:07**\
+Marcus Dallacqua\
+Yeah. Okay. Yeah.
+
+**\
+01:30:10**\
+Marcus Dallacqua\
+So we.
+
+**\
+01:30:12**\
+Sandra Rudloff\
+So this one little caveat. So the way we have the D365 customization is
+it\'s. It brings in the base product number but not options. So the
+options are stored within the sales order. So that helped a little bit.
+And then all of our. And kind of the same way as Chameleon used to be,
+when you build the item, it builds the description based on that first
+item. So if someone brings in the product and it was a chair, that\'s
+what we\'re stuck with for eternity. So all of our forms. So when
+you\'re looking at the order online, it\'ll say product chair. And, you
+know, it\'s not that. But so the. Everything, the sales order, purchase
+orders, quotes, will pull the description from the file that\'s brought
+in and not that generic. You know, the initial build of the item. So.
+
+**\
+01:31:04**\
+Marcus Dallacqua\
+Got it.
+
+**\
+01:31:05**\
+Sandra Rudloff\
+So we can use the Word product for a chair, a table, whatever. And we do
+order what we want.
+
+**\
+01:31:11**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+01:31:11**\
+Marcus Dallacqua\
+Okay, perfect. So let me give you some background. When we first started
+working with furniture dealers, we did it very similar to how it\'s
+being done in Microsoft D365. Right now. We had our BOM or SIF Import
+tool brought in the SIF file. We looked in the catalog. Does that part
+number exist? If it does, bring it onto the sales order or the quote. If
+it doesn\'t, let\'s go ahead and create it and then bring it onto the
+quote. And then all of the detailed information that\'s in the SIF file,
+the option code, option description, anything else, bring that into the
+transaction. And then we would also create a unique alphanumeric number
+called UUID universal ID to make sure that particular item is specific
+or unique. Then we\'d also create a lot number.
+
+**\
+01:32:07**\
+Marcus Dallacqua\
+And the lot number is a way for NetSuite to track that to make sure that
+it\'s unique. We\'re actually using, and we\'re still using lot numbers.
+We\'re really using lot numbers. More like serialized serial number,
+except serial numbers go down to the quantity. So like if I ordered part
+1, 2, 3, 4, 5, and I gave it a lot number, that lot number is, would
+represent for all the quantities that you order. So let\'s say you order
+a quantity of five. Well, here\'s the lot number for that quantity of
+five. A serial number would be, well, here\'s the serial number for
+quantity number one. Here\'s a different number for quantity number two.
+So it gets very specific. And in furniture you don\'t need to be that
+specific.
+
+**\
+01:32:48**\
+Marcus Dallacqua\
+But we do use the lot numbered inventory because we want to make sure
+it\'s specific for two primary reasons. I think I call it out on the
+slide here. Well, three reasons. Number one, for WIP accounting, we want
+to make sure that these items are posting to wip. And I do want to talk
+to you about how you guys are doing Wipe and D365 in the moment. And
+we\'re also doing it for warehouse traceability. So we want to make sure
+that when we receive that product in the warehouse, we know exactly
+where it\'s at. And if it didn\'t have a lot number, it wouldn\'t be
+unique. So we wouldn\'t know. It would just, you know, it would be the
+part number that\'s not unique enough. So lot numbers make it unique so
+we can find it on our reports.
+
+**\
+01:33:26**\
+Marcus Dallacqua\
+And then the other big thing is the lot costing versus actual average
+costing inventory Management systems typically default to average
+costing. We need that particular item because we know it\'s unique with
+this set of options to have a very specific cost. And so we\'re using
+lot costing to track that and make sure that all the margin reporting is
+accurate. Okay, so with that being said, that\'s how we\'re doing it
+inside netsuite. Now the other thing, the other major thing that we\'re
+doing here is we don\'t go to the part number. Instead of that, we go
+one level up where we\'ll say furniture is our item or flooring is our
+item. And we might go a little bit more granular than that. We might say
+Herman Miller furniture, other furniture.
+
+**\
+01:34:10**\
+Marcus Dallacqua\
+Really the only reason we need a different item is if we need to post a
+different GL account. So like if, if for some reason your GL structure
+was so flat that you only had one revenue account and one cost of goods
+sold account, which I\'m sure you don\'t, but if that was the case, we
+would really only need one item because it would post to that, but we
+would have all these other things that make that item unique. But as far
+as a netsuite item in the item catalog, it the only thing that
+differentiates between the items, Sorry, there\'s really two things is
+whether it\'s taxable or non taxable and what GL account it\'s posting
+to. Now, using that methodology, our item catalog, we probably have 30
+or 40 items.
+
+**\
+01:34:57**\
+Marcus Dallacqua\
+As you\'re taking that Herman Miller furniture and you\'re reusing it
+hundreds of times on that transaction. And then we have all these other
+columns of information that make that particular item unique on the
+transaction. So it gives us a lot more flexibility and it keeps the
+overall system light because, and because, believe you me, like when
+we\'ve implemented other dealers, they have item catalogs of hundreds of
+thousands. And you know, when you pull up a list, an item list, you get
+that drop down that takes forever to load, you know, and there\'s so
+many more to go through. So and the other big thing here with this
+methodology or this architecture, I should say of how we\'re doing these
+inventory items, lot numbered inventory items is our BOM Import tool. We
+can import a file in about 10 seconds.
+
+**\
+01:35:49**\
+Marcus Dallacqua\
+So you can import a thousand lines in 10 seconds. So it makes it
+extremely fast for project coordinators to be able to, if I think it\'s
+project coordinators in your organization doing the imports. And so with
+our previous SIF import tool, because it\'s doing all that Processing it
+has to go sit into a process queue. And you might only have a SIF file
+that has 10 lines on it, but because it gets stuck in a queue behind
+something else that has a thousand lines on it, that thing might be
+sitting in there for 20 minutes. You just don\'t know. You might be
+waiting forever for that to process. Well, not anymore. With our system,
+we can do a thousand lines in about 10 seconds, so it dramatically
+increases the speed of it. But I do want you to know it\'s a different
+architecture change.
+
+**\
+01:36:38**\
+Marcus Dallacqua\
+But it.
+
+**\
+01:36:39**\
+Marcus Dallacqua\
+But from our perspective, it\'s only. There\'s only benefit to it. Any
+questions about that? I do have some questions for you about wip, but
+any questions about the item setup?
+
+**\
+01:36:53**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:36:56**\
+Marcus Dallacqua\
+So let\'s talk about wip. How are you guys? Well, traditionally, in
+furniture dealers, any inventory that\'s pre sold that\'s coming into
+the warehouse is posting to an asset account called Web. Do you guys do
+that?
+
+**\
+01:37:12**\
+Sandra Rudloff\
+Kevin, do you want to talk it through or you want me to.
+
+**\
+01:37:16**\
+Kevin Baugh\
+I think it\'s good for you, Sandy.
+
+**\
+01:37:18**\
+Marcus Dallacqua\
+Go for it.
+
+**\
+01:37:19**\
+Sandra Rudloff\
+Okay, so we don\'t have a actual. A WIP account. We use the inventory
+module. So when the product\'s received, it\'ll be recognized inventory.
+And then the. Actually, there\'s a lot of in and out that we don\'t use,
+some automatic posting. But long story short, we use our inventory
+reports as our WIP report, which is really only relating to, you know,
+product freight and external labor. We don\'t have anything that is
+monitoring our internal labor.
+
+**\
+01:37:59**\
+Marcus Dallacqua\
+Okay, so a couple of really important things there. I want to make sure
+that we note for our team and for our Fireflies note taker. So you are.
+So in effect, you are. You\'re using the inventory asset account, the
+default inventory asset account in Microsoft D365, to track pre sold
+inventory. No, really inventory. Any inventory.
+
+**\
+01:38:23**\
+Sandra Rudloff\
+Really? Yeah, really inventory. And it hits when we receive in the po,
+if it\'s a drop ship, or when we physically receive.
+
+**\
+01:38:31**\
+Marcus Dallacqua\
+So.
+
+**\
+01:38:31**\
+Marcus Dallacqua\
+Okay, but you\'re also you. So you. You\'ve also created inventory items
+to track external labor and freight.
+
+**\
+01:38:38**\
+Sandra Rudloff\
+Yes.
+
+**\
+01:38:39**\
+Marcus Dallacqua\
+So you have.
+
+**\
+01:38:39**\
+Marcus Dallacqua\
+So you have the same thing. Posting.
+
+**\
+01:38:41**\
+Marcus Dallacqua\
+Okay. Okay.
+
+**\
+01:38:45**\
+Marcus Dallacqua\
+So it looks like you have freight items in your warehouse.
+
+**\
+01:38:49**\
+Sandra Rudloff\
+Yes.
+
+**\
+01:38:49**\
+Marcus Dallacqua\
+You run a warehouse report.
+
+**\
+01:38:51**\
+Sandra Rudloff\
+Well, okay, now we get into the things I hate about D365.
+
+**\
+01:38:56**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+01:38:56**\
+Sandra Rudloff\
+So going back to costing, the way we set it up was we use what\'s called
+standard cost, and the cost per item is based on the site. Well, because
+of all the variables you have when you order Herman Miller. We also had
+to create a unique site for every item. So like we\'re in the millions
+of sites, so we can\'t run a warehouse report because you say run it
+for, you know, our Fremont Warehouse. There are thousands upon thousands
+of sites associated there and you\'d have to run a report for each site.
+
+**\
+01:39:30**\
+Marcus Dallacqua\
+Oh, wow. Okay.
+
+**\
+01:39:31**\
+Sandra Rudloff\
+So yeah, so our inventory report will show the site for that item. So
+every line that you bring in gets a unique site and warehouse. And yeah,
+that\'s why we can\'t use any of the, you know, native reports for WIP
+because we bastardize the system so much.
+
+**\
+01:39:50**\
+Marcus Dallacqua\
+Gotcha.
+
+**\
+01:39:51**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:39:53**\
+Marcus Dallacqua\
+I just want to say I appreciate everybody who\'s not in finance that\'s
+still on the call and has not dropped because I know this is not
+exciting stuff to talk about. All right, let\'s, so let\'s go a little
+bit deeper here. So when we set up a furniture dealer and we create for
+them a WIP asset account, it is an inventory asset account. The only
+thing we\'re doing is we\'re saying, okay, here\'s your inventory asset
+account and here\'s your WHIP asset account. If you keep anything
+inventory and you\'re constantly rotating it like you\'re ordering in
+and you want to have reporting on that\'s fine. We\'ll segment that from
+your pre sold inventory, which we\'re calling wip. So if there\'s any
+desire to keep those two things segmented, they\'re still both inventory
+asset accounts. You just.
+
+**\
+01:40:43**\
+Marcus Dallacqua\
+This one is for pre sold inventory and this is for non pre sold
+inventory. So you have the ability to do that.
+
+**\
+01:40:48**\
+Sandra Rudloff\
+We don\'t stock, so you don\'t stock at all.
+
+**\
+01:40:51**\
+Marcus Dallacqua\
+Okay, so you can either then you can call that, we can just call it
+inventory asset. And if you want to have things like freight, things
+that are not product like freight or labor, posting to that inventory
+asset account because you want to use that kind of as a, well, as I
+understand the dealers are really using that as for the help of the
+credit line of credit with the bank because it\'s part of project
+accounting. It\'s, you know, there\'s a, it\'s pre sold inventory and so
+you can borrow against it. As I understand if you want to do that, you
+can absolutely do that. We have lot numbered inventory items for
+freight, for internal labor, external labor, all.
+
+**\
+01:41:31**\
+Marcus Dallacqua\
+That can, all that track.
+
+**\
+01:41:33**\
+Marcus Dallacqua\
+There are some nuances on the internal labor. So we have to kind of be
+careful with that and think through some of that. But that\'s all
+possible as well. But you don\'t have to do the individual sites. You
+can do lot costing for on the costing side.
+
+**\
+01:41:48**\
+Sandra Rudloff\
+So, Kevin, we probably need to make a philosophical decision on whether
+or not we want to track actuals in Orion. And if so, do we want them to
+hit WIP or do we want to do kind of the immature method we\'re doing now
+of just uploading the quoted cost?
+
+**\
+01:42:07**\
+Marcus Dallacqua\
+Agreed.
+
+**\
+01:42:08**\
+Sandra Rudloff\
+Yeah, that\'ll be a big conversation for us.
+
+**\
+01:42:13**\
+Marcus Dallacqua\
+Yeah, it is the internal. Yeah, because are you going to do job costing
+or do you want the actuals to hit? And yeah, now we do have, we do give
+you some features in Orion for job costing. So for example, for internal
+labor, we allow you to track that by the activity. So we could say, all
+right, if it\'s internal labor for installation, here is the rate that
+you\'ll use to calculate a cost. And then that rate can be. It\'s in a
+matrix, so you can have it associated with the role. So maybe if it\'s a
+senior, if the rate is this, if it\'s a junior or a lead on the
+installation team versus just an installer can have different rates. And
+then when they do their time tracking, it\'ll automatically calculate
+the cost. But it\'s. It\'s not hitting the gl, it\'s just.
+
+**\
+01:43:09**\
+Marcus Dallacqua\
+It\'s job costing. And then you can.
+
+**\
+01:43:12**\
+Marcus Dallacqua\
+That can.
+
+**\
+01:43:12**\
+Marcus Dallacqua\
+Depending on how you want it to flow to the project, it can flow the
+project and inform the GP and commissions.
+
+**\
+01:43:19**\
+Sandra Rudloff\
+Can you mix and match? So say for commission purposes you use the quoted
+cost. That\'s on your order. But on the GL side, we want it to hit the
+GL for actual.
+
+**\
+01:43:34**\
+Marcus Dallacqua\
+Yeah, you can. The only thing if you wanted to hit the GL for actual.
+Well, typically people are doing that by not down at the project level,
+they\'re just kind of doing it like I don\'t know who your payroll
+service is.
+
+**\
+01:43:47**\
+Sandra Rudloff\
+We use UKG UltiPro.
+
+**\
+01:43:51**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:43:51**\
+Marcus Dallacqua\
+We gotta make sure, we gotta make sure we have a note of that. Are you
+guys just doing a journal entry to bring that. That in the information
+into Dynamics?
+
+**\
+01:44:02**\
+Marcus Dallacqua\
+Yeah. Or.
+
+**\
+01:44:04**\
+Sandra Rudloff\
+Yeah, we don\'t have an integration, Kevin, do we from UKG payroll?
+
+**\
+01:44:08**\
+Kevin Baugh\
+No, I don\'t think so. No, we\'re not using that.
+
+**\
+01:44:10**\
+Marcus Dallacqua\
+Okay, so you\'re just doing it an import, which is what you would do as
+well, and then it would hit the gl, but it not all the way down to the
+product project level. It would just be hitting your GL kind of @ the
+highest level.
+
+**\
+01:44:21**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:44:24**\
+Marcus Dallacqua\
+So definitely another conversation around WIP that we should have there.
+I think we\'ve talked about all of this. Does cost move to.
+
+**\
+01:44:35**\
+Marcus Dallacqua\
+Oh yeah.
+
+**\
+01:44:36**\
+Marcus Dallacqua\
+When does cost move from your inventory asset to your COGS account?
+
+**\
+01:44:40**\
+Sandra Rudloff\
+Currently it\'s upon revenue invoicing and it\'s automatic.
+
+**\
+01:44:46**\
+Marcus Dallacqua\
+Is that a customization or is that native to.
+
+**\
+01:44:49**\
+Sandra Rudloff\
+It\'s. Well, like I was talking about with inventory, we made a lot of
+automations for in and out of the accounts. Same thing here. So.
+
+**\
+01:44:58**\
+Marcus Dallacqua\
+Yeah. Okay.
+
+**\
+01:45:01**\
+Marcus Dallacqua\
+Do you. Okay, so that sounds similar to how we\'re doing it right now.
+So right now. But I, but I will say this is a customization that we
+built so natively NetSuite and most systems will do. Revenue is not
+associated. Sorry, cost is not associated with invoicing. Revenue is
+associated with invoicing and item fulfillment is associated with cost.
+So whenever you bring product into your warehouse, you could even pay
+that vendor bill that does not have a cost of goods sold impact. It\'s
+not until you deliver the product that has a cost of sold impact. So
+what we\'ve done is as soon as you generate the customer invoice, then
+the item fulfillment transaction that governs cost recognition, that\'s
+automatically created in whatever in proportion to the invoice. So if
+it\'s a partial invoice, it\'s created in proportion.
+
+**\
+01:45:54**\
+Marcus Dallacqua\
+If you edit the invoice or delete the invoice, the same thing happens to
+items fulfillment. They\'re kind of mirrored. So you\'re recognizing
+revenue and costs at the. The same time. And we have worked with some
+other dealers that want to do it differently. We have one dealer who is
+doing it very simply. They\'re. They\'re letting, they\'re letting the
+item leave the warehouse drive the cost. And the revenue recognition,
+which is I think is a bit more traditional in gap. It\'s probably like
+less project accounting, but more gap. Both are gaap. I shouldn\'t say
+it that way. It\'s probably less project accounting and more typical in
+everything outside of construction.
+
+**\
+01:46:36**\
+Marcus Dallacqua\
+But what happens is the product leaves the warehouse and in that
+accounting period, if there is not a corresponding invoice for that
+cost, a journal entry is automatically created and the revenue is
+accrued and it\'s an automatic reversing journal entry that just
+reverses at the beginning of the next month. And so it\'s really the
+cost or the product leaving the warehouse that\'s driving the revenue.
+So you have that option as well. I actually like that option a little
+bit better personally because I think it\'s a little bit cleaner. It\'s,
+you know, it\'s revenue is somewhat Divorced from invoicing. It\'s
+really driven by when the product leaves your warehouse, which that\'s
+technically when custody is changed from you to the client, you\'re
+delivering it, installing it. So but something for you to consider. We
+built the customizations both. You could do it either way.
+
+**\
+01:47:31**\
+Marcus Dallacqua\
+It\'s really can be configured either way. So we can do it the exact way
+that you\'re doing it now, where we\'ve automated that item fulfillment
+and that cost recognition or you can let the cost drive the revenue
+recognition. The journal entry is automatically created with the
+reversal, the reverse in journal entry for accrued revenue.
+
+**\
+01:47:49**\
+Sandra Rudloff\
+So you could have one report to show basically all wip, but then also a
+report that would show say delivered product not invoiced.
+
+**\
+01:47:57**\
+Marcus Dallacqua\
+Yes, okay.
+
+**\
+01:47:59**\
+Marcus Dallacqua\
+Yep, exactly.
+
+**\
+01:48:03**\
+Marcus Dallacqua\
+So a couple of things for you to consider there. All right, next steps,
+we\'ll do a follow up meeting on that first for sure on revenue
+recognition in that meeting too. We have a process map that will walk
+you through, but I think it\'s going to be very similar to how you\'re
+doing it.
+
+**\
+01:48:21**\
+Marcus Dallacqua\
+And we\'ll go a.
+
+**\
+01:48:22**\
+Marcus Dallacqua\
+Little bit deeper on all that. What do we got next? We got 12 more
+minutes. Oh, as I mentioned, our configuration philosophy, everything\'s
+preconfigured already. For contract furniture, we\'ve turned on
+everything that needs to be turned on and turned off everything that
+needs to be turned off, we\'ve tested it. So during our discovery
+process, if we find something during our discovery process that you need
+to be turned on, we\'re going to do that with you in the next phase. So
+we\'ll document it during discovery, we\'ll note it and then when we get
+to the realize phase, we\'re going to do that with you and we\'re going
+to just make that part of our training. As I mentioned, during the
+realize phase, we\'re going to do a full walkthrough of the
+configuration and show you how we configured it, why we did that.
+
+**\
+01:49:10**\
+Marcus Dallacqua\
+And then if there\'s anything, like I said in discovery that we\'ve
+identified that we need to address, we\'ll do it with you during realize
+and actually have you do it so you start to get more familiar with the
+system. All right. And as I mentioned in the realize phase, we\'re doing
+all the testing there before we hand it off to you. I kind of just went
+over all that. Oh, I have some so QA portion of this, throw some topics
+up there just to trigger you to see if you have any questions.
+
+**\
+01:49:50**\
+Amanda Beaudin\
+I think for me, just the timeline of us going live May 1st, I think I
+noted that it said it was aggressive. Is that like really aggressive? Is
+that what you\'re seeing or how long does it typically take?
+
+**\
+01:50:03**\
+Marcus Dallacqua\
+It\'s really different for every company because it really kind of comes
+down to complexity more than anything in the number of users that need
+to be trained. So in general, I would say this is ambitious and we\'re
+certainly going to try and meet it and we\'ll lay out a project plan
+once we get through Discovery. What we\'ll know too is as we\'re going
+through Discovery, we\'re getting to the end of discovery. We\'re like,
+yeah, there\'s a lot here. We\'re probably going to come back to you and
+say, hey, if we\'re going to meet that deadline, this is what we need to
+do from a project standpoint to actually meet that. So it\'s more
+collaborative than it is prescriptive. We\'re not going to tell you
+like, hey, no way. But we\'re going to have to probably make some
+decisions on that.
+
+**\
+01:50:46**\
+Marcus Dallacqua\
+But I would say it\'s ambitious but not impossible. But again, I got it.
+We got to get through Discovery to know. Sorry, I don\'t have the easy
+answer for you.
+
+**\
+01:50:57**\
+Amanda Beaudin\
+No, I was just curious. I actually think that\'s plenty of time. Seems
+almost a year. But the hope would be that as we are looking to get away
+from all the other systems that we have and now simplify it, that
+hopefully pretty smooth.
+
+**\
+01:51:15**\
+Marcus Dallacqua\
+Yeah, agreed. I have one quick comment here, Chris. In that list of
+stuff that you\'re going to send to them, we send them a list of all the
+Orion roles. Yeah, so I failed to mention it, but we already have 25
+roles identified with permission sets. The permission sets always get
+adjusted for every company because every company defines the roles
+differently and what people can do. But we at least want to give you the
+role. The role information. And when we get on that session where we
+talk about all the other companies set up and things like that, we\'ll
+talk about the roles. We just want to make sure that the titles and
+everything align with how you define them in your company. So we assume
+that we\'ll be making changes to the role names, but we want to.
+
+**\
+01:52:00**\
+Marcus Dallacqua\
+We\'ll send that to you so you can review that.
+
+**\
+01:52:04**\
+Sandra Rudloff\
+So I\'ve got a question on the future Discovery sessions. So we\'re
+going to go through all the next seven, which is kind of touching on all
+the areas then, is it? Kind of. So say we\'re in August now. Do you want
+to do like CRM and forecasting 1, 2, 3. And then the next week would be
+whatever you kind of want to, I guess. Do you want to like get one of
+those sections completed and then we move on to the next one or kind of.
+What\'s your philosophy going forward after the initial overviews?
+
+**\
+01:52:39**\
+Marcus Dallacqua\
+Yeah, I like to, I do kind of like to keep it linear and kind of go and
+do and kind of go around. So really the first discovery session is all
+this company set up and some of these financial considerations. So when
+we do go to schedule our next follow up sessions, we\'ll start with this
+one and then we\'ll do the same with marketing. And I think we\'ll
+achieve exactly. What you\'re saying is that\'ll get us closer to being
+able to finish one process area and work on the BRD while we\'re still
+doing some of the other sessions. But that\'s kind of the hope. But you
+know, sometimes it\'s because maybe with CRM we have to do three or four
+sessions and maybe with marketing we only do one at that point.
+
+**\
+01:53:19**\
+Marcus Dallacqua\
+It kind of just depends on how much work we have to do. But we are
+trying to efficiently get through them so we can get you the BRD for
+your review really as quick as possible and start getting things signed
+off on.
+
+**\
+01:53:33**\
+Sandra Rudloff\
+And when were talking about wip, do you want me to give you kind of an
+outline of all the different accounts that we hit so you can see the in
+and out movement or. Okay. I don\'t know if that.
+
+**\
+01:53:43**\
+Marcus Dallacqua\
+Process map. Yeah, okay, that\'d be great. Any other questions? All
+right, let\'s see what else we got on here. I think we have some
+duplicates. Oh, here is our deliverables. I\'m sorry, as I mentioned
+before. And by the way, we\'re going to give you a copy of this. We\'ll
+clean up a couple of those slides. We\'ll give you a copy of this. So
+the detailed project plan, updated statement of work, business
+requirement documents. In the data migration strategy document will be
+the deliverables from discovery. And as we\'re beginning to wrap up the
+foundational understanding, hopefully we\'re giving you some of that and
+starting to do that initial alignment. And we have our next session
+tomorrow. And I\'m sorry, can you remind me, Sandy, is it marketing
+tomorrow?
+
+**\
+01:54:45**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+01:54:45**\
+Marcus Dallacqua\
+Are we able to get everything in order? Right?
+
+**\
+01:54:47**\
+Sandra Rudloff\
+No, actually I think were having some setup. One moment tomorrow that
+says settings and.
+
+**\
+01:54:54**\
+Marie Guerrero\
+Configuration, netsuite configuration preferences system setup, chart of
+accounts.
+
+**\
+01:55:00**\
+Marcus Dallacqua\
+Yep.
+
+**\
+01:55:00**\
+Marcus Dallacqua\
+Okay, maybe I did it. Not Thinking that I wouldn\'t get through
+everything today, which is fine. We\'ll just end up doing some of those,
+some of the things that we identified today for the future sessions.
+We\'ll do those tomorrow.
+
+**\
+01:55:12**\
+Sandra Rudloff\
+Okay. Yeah. Because the people tomorrow aren\'t the same people who
+would be involved in CRM. So.
+
+**\
+01:55:17**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+01:55:18**\
+Marcus Dallacqua\
+Oh, for sure.
+
+**\
+01:55:18**\
+Marcus Dallacqua\
+Yeah. Yep.
+
+**\
+01:55:20**\
+Marcus Dallacqua\
+Now we\'ll. Yeah, we\'ll go deeper tomorrow.
+
+**\
+01:55:22**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:55:24**\
+Marcus Dallacqua\
+Yeah. So we\'ll get all that stuff to you asap and then if you can just,
+you don\'t have to send it to us, you can, if you can just be prepared
+to talk through it tomorrow, that\'d be great.
+
+**\
+01:55:35**\
+Kevin Baugh\
+Hey Marcus, quick question. Just like very high level, are we going to
+be using some type of sandbox and like proven this all out and then
+like, you know, come one day, you know, one day we\'re just going to
+flip the switch and go live? Like, how does that actually work?
+
+**\
+01:55:47**\
+Marcus Dallacqua\
+Yeah, so we don\'t like to do it in sandbox. I know a lot of NetSuite
+implementers do the problem when you do it in, when you implement in the
+sandbox and you do all your testing and then you want to move it to
+production, you have to move it all to production and then you have to
+redo all your testing.
+
+**\
+01:56:02**\
+Marcus Dallacqua\
+Okay.
+
+**\
+01:56:03**\
+Marcus Dallacqua\
+And what it ends up, from my perspective, what it does, it just, it\'s
+more cost to the client. But what we do have are some tools that allow
+you to get into the production account before we, you know, we haven\'t
+actually gone live with real data, but you will be putting data into the
+system and then we have tools that wipe all the data out. So you are
+basically once we\'ve, you know, implemented the apps, you\'ve done all
+your testing, you take all that test data, we get it out and now you
+have a fresh account ready to go live with.
+
+**\
+01:56:33**\
+Marcus Dallacqua\
+Got it.
+
+**\
+01:56:34**\
+Kevin Baugh\
+That makes sense.
+
+**\
+01:56:35**\
+Marcus Dallacqua\
+Yeah. Yeah.
+
+**\
+01:56:37**\
+Marcus Dallacqua\
+I\'m telling you, like a lot of nutsuite companies just throw in extra
+dollars into the implementation to do that and. Yeah, appreciate it.
+Thanks for the transparency there.
+
+**\
+01:56:46**\
+Kevin Baugh\
+Yeah, that\'s good.
+
+**\
+01:56:48**\
+Sandra Rudloff\
+So question on Go Live, since we are doing a data migration, would it be
+reasonable to think that it\'s not an overnight thing? It\'ll be like,
+you know, a couple days where we don\'t have either system while you
+extract from D365 and import in?
+
+**\
+01:57:04**\
+Marcus Dallacqua\
+No, I wouldn\'t say that. It\'s not a hard code word like that. Not
+everything\'s down really. At one point we\'re just going to say, okay,
+all new business. You\'ll do your data migration, we\'ll say your final
+data migration. Actually, that\'s a good question, Sandy. Let me bring
+some clarity to that. We start data migration really early on in the
+implementation because there\'s years of data that can be migrated and
+we\'re doing first some test data migration. Then once you\'ve proven
+out the process, the maps that map it from the old system to the new
+system, then we do full loads. Then when we get to go live, which might
+be a couple months from when we did our last data migration, all we have
+to migrate is that last couple months or whatever that time frame was.
+But we\'ve already proven it out.
+
+**\
+01:57:50**\
+Marcus Dallacqua\
+We already have the maps to basically just do the import or the export
+import. And then once that happens, that\'s, that happens pretty
+quickly. And then we say, okay, all new business happens in netsuite.
+And then you. Depending on some of the decisions we\'ll make, we\'ll
+talk about data migration. You might be running out things in Microsoft,
+or if you choose to move all those projects to. Net, to NetSuite, we\'ll
+have to have done that work. But then we\'ll say, yeah, all new business
+is being done in netsuite. Did I, did I do a good job answering that
+question? I rambled a little bit. Okay.
+
+**\
+01:58:26**\
+Sandra Rudloff\
+No, it\'s. It\'s good to know. I was thinking, okay, are we going to be
+down for, you know, three days?
+
+**\
+01:58:30**\
+Sandra Rudloff\
+No.
+
+**\
+01:58:31**\
+Sandra Rudloff\
+Or, you know, like Friday? Friday you\'re in D365 and Monday you\'re in
+Orion.
+
+**\
+01:58:37**\
+Marcus Dallacqua\
+Yeah. Yep.
+
+**\
+01:58:39**\
+Marcus Dallacqua\
+Yeah. New business, all in Orion. And then again, yeah, just depending
+on how you decide to. We\'ve talked a little bit about this, but we\'ll
+finalize it. What that\'s going to look like, if you\'re going to try
+and recreate the projects inside NetSuite. I remember you had a lot of
+them. I think it was 2500.
+
+**\
+01:58:55**\
+Marcus Dallacqua\
+Yeah.
+
+**\
+01:58:56**\
+Marcus Dallacqua\
+At a time.
+
+**\
+01:58:57**\
+Sandra Rudloff\
+Yeah, I think. Yeah. When we start talking about project setup and sub
+projects and orders, that\'ll be really interesting because we may need
+to change our mindset on things.
+
+**\
+01:59:13**\
+Marcus Dallacqua\
+Okay, good.
+
+**\
+01:59:15**\
+Marcus Dallacqua\
+Well, we\'re at the top of the hour. I appreciate everybody\'s time and
+I\'m looking forward to our next session tomorrow. If you do have any
+questions, feel free to. Sandy has our email addresses. If you have any
+questions that need to come our way, feel free to send them over. But
+other than that, we\'ll look forward to talking with you tomorrow.
+
+**\
+01:59:37**\
+Marcus Dallacqua\
+Right.
+
+**\
+01:59:38**\
+Sandra Rudloff\
+Thanks, everyone.
+
+**\
+01:59:38**\
+Marcus Dallacqua\
+Thanks, Vivian.
+
+**\
+01:59:39**\
+Marcus Dallacqua\
+Thank you. Bye, everyone.
+
+**\
+01:59:41**\
+Donielle Winslow\
+Thanks, everyone.
