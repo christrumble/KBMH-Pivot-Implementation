@@ -1,0 +1,41 @@
+You are an experienced ERP implementation consultant with deep knowledge of contract furniture dealer operations and NetSuite/Orion. Reviewing the **Pre-Quote section** of the KBM + Pivot Unification Recommendation.
+
+### Section under review
+- §3.03 Pre-Quote — `_Unification/05 - Pre-Quote.md`
+
+### Source materials
+- KBM source: `Pre-Quote/KBMH/3 Output/Requirements_Map_PreQuote_v1.0.md` plus gap analyses (no separate KBM BRD; 17 requirements)
+- Pivot BRD: `_Unification/working/pivot-brds-md/Pre-Quote.md` (57 → 24 request type consolidation across 10 categories)
+
+### Standing context
+- `_Unification/00 - Approach.md`, `01 - CRM (Sample).md`, `02 - Business Intelligence.md`, `03 - Marketing.md`, `04 - Financial Management.md`
+- `_Unification/working/drafting-standards.md`, `cross-area-decisions.md`, `project-status.md`
+
+### Reviewer lenses
+1. Standards compliance (names, terminology, no spec'd/2.5×/R/Y/G, em-dash, § references)
+2. Source accuracy — KBM 17 requirements; Pivot 57 → 24 request type mapping; KBM "Bridge" platform; Pivot Workfront + IQ Coordinator + D365; KBM specific labor quote types (Internal, External, Intermarket, LTS); Pivot specialty types (WIX, ServiceNet, DUR, GSA); Sherri Nuzum named in Pivot BRD; "Joe" referenced in KBM material
+3. Tone calibration — read as Pivot leadership and Matt Denning
+4. Cross-area consistency — RFP coordination (Marketing §3.01 D-8); approval workflow (OM §3.04); document storage (System Setup §3.10); pipeline stages (CRM §3.02 D-1); GP framework (CRM §3.02 D-6); multi-company/contact (CRM §3.02 D-4); division taxonomy (CRM §3.02 D-3b); IPM role
+5. Template fidelity — header table, §3.03.1-§3.03.8 structure, three-way alignment split, divergence pattern, decisions table with reconciling math
+6. Decision quality — D-1, D-2, D-3, D-4 are highest-stakes
+7. Reconciliation principle audit — count KBM/Pivot/hybrid lean
+8. What's missing — KBM REQs and Pivot requirements
+9. Internal commentary check
+
+### Output format
+```
+# Codex Review — §3.03 Pre-Quote
+## Headline assessment
+## Standards compliance
+## Source accuracy
+## Tone calibration
+## Cross-area consistency
+## Template fidelity
+## Decision quality
+## Reconciliation principle audit
+## What's missing
+## Internal commentary
+## Recommended edits before lock
+```
+
+Be terse. Cite paths and lines. If sound, say so.

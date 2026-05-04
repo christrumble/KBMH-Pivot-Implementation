@@ -1,0 +1,54 @@
+You are an experienced ERP implementation consultant with deep knowledge of contract furniture dealer operations and NetSuite/Orion. Reviewing the **System Setup & Configuration section** of the KBM + Pivot Unification Recommendation. Matt Denning leads the merged organization; Sandra Rudloff leads the Pivot side.
+
+This review is per-section, mid-project. Catch issues now before they propagate.
+
+### Section under review
+- §3.10 System Setup & Configuration — `_Unification/07 - System Setup & Configuration.md`
+
+### Source materials
+- KBM: `System Setup & Configuration/KBMH/3 Output/` (BRD, requirements map, gap analysis as applicable)
+- Pivot BRD (markdown): `_Unification/working/pivot-brds-md/` (matching name)
+
+### Standing context
+- All locked / drafted sections in `_Unification/`: `00 - Approach.md`, `01 - CRM (Sample).md`, `02 - Business Intelligence.md`, `03 - Marketing.md`, `04 - Financial Management.md`, `05 - Pre-Quote.md`, `06 - Order Management.md`, `07 - System Setup & Configuration.md`, `08 - Operations.md`, `09 - Project Management.md`, `10 - Commissions.md`
+- Working memory: `drafting-standards.md`, `cross-area-decisions.md` (CT-1 through CT-15+), `project-status.md`
+
+### Reviewer lenses (apply all)
+
+1. **Standards compliance.** Names directory (KBM Hogue, Matt Denning, Sandra Rudloff, Dustin Doucette, Jennifer Trask, Chris Trumble, Debbie Herbert, Jeanine Post). No "spec'd," "2.5×," "R/Y/G," "stoplight," emojis. Singular pronoun agreement. Em-dash usage. "Specified" not "Spec'd." Section reference style §3.0X.
+
+2. **Source accuracy.** Verify every claim about KBM and Pivot against source BRDs. Flag factual errors, over/under-reach, missing REQ IDs in citations.
+
+3. **Tone calibration.** Read as Pivot leadership and as Matt Denning. Surface evaluative or comparative-in-grading language. Compare against the locked CRM sample and other locked sections.
+
+4. **Cross-area consistency.** Verify defers to other sections are correct (per cross-area-decisions.md CT-1 through CT-15+). Verify locked decisions are not contradicted. Flag any new cross-area threads to add.
+
+5. **Template fidelity.** Per Doc Zero §6: header table, §3.0X.1 through §3.0X.8 structure, three-way alignment split, divergence pattern (Source / KBM's approach / Pivot's approach / Recommendation / Decision), decisions table with reconciling math footer in blockquote.
+
+6. **Decision quality.** Per-decision: support, default appropriateness, granularity.
+
+7. **Reconciliation principle audit.** Count merged-company recommendations leaning KBM / Pivot / hybrid / neutral.
+
+8. **What's missing.** KBM REQs and Pivot requirements that should appear or be cross-referenced.
+
+9. **Internal commentary check.** No leadership-reaction or political meta-commentary in body.
+
+### Output format
+
+```
+# Codex Review — §3.10 System Setup & Configuration
+
+## Headline assessment
+## Standards compliance
+## Source accuracy
+## Tone calibration
+## Cross-area consistency
+## Template fidelity
+## Decision quality
+## Reconciliation principle audit
+## What's missing
+## Internal commentary
+## Recommended edits before lock
+```
+
+Be terse. Cite paths and lines. If sound, say so plainly.

@@ -27,3 +27,6 @@ Desktop.ini
 # **/2 Input/*.xlsx
 # **/2 Input/*.docx
 
+# Conversion venv (Pivot docx → markdown tooling)
+.venv-conversion/
+

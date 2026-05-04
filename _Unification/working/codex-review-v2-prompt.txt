@@ -1,0 +1,79 @@
+You are an experienced ERP implementation consultant with deep knowledge of contract furniture dealer operations and NetSuite/Orion. You previously reviewed an earlier version of this work; that review is at `_Unification/working/codex-review.md`. The drafts have been substantially rewritten in response. I am asking you to do a focused second-pass review to verify the rewrite landed and to surface any new issues introduced.
+
+Documents to review:
+- `_Unification/00 - Approach.md` — Doc Zero v2
+- `_Unification/01 - CRM (Pilot).md` — CRM pilot v2
+
+Key changes in v2 vs. v1 (driven by your prior review and explicit client tone direction):
+
+1. **ALIGN/ADAPT/ACCOMMODATE language has been removed entirely.** That vocabulary belongs to GSI's individual-company BRD methodology and was inappropriate for the unification document. The framework is now context-based reconciliation, not classification asymmetry.
+
+2. **Tone reframed throughout.** The client direction is to be non-critical of either company. Both KBM and Pivot's stakeholders will read this; neither company's processes can be characterized as "less mature," "more sophisticated," "lacking," "where their thinking was sharper," etc. The reframe attributes each company's approach to *context* (operational footprint, customer mix, scale, strategic priorities), never to quality.
+
+3. **Decision framing changed from "Decisions for Matt" to "Decisions for the leadership team."** Matt is the ultimate decider, but framing decisions as joint preserves Sandra Rudloff's voice.
+
+4. **Doc A (account/renewal memo) has been removed from the unification package.** The client explicitly directed that this document is about business process, not contracts or licensing. Doc A still exists in `_Unification/working/` but is not part of what gets circulated.
+
+5. **Factual errors flagged in your prior review have been fixed:**
+   - D-4 (was "single-company contact model") now correctly describes KBM's rich role taxonomy
+   - D-7 (was D-6) cross-division referrals broadened beyond Construction Solutions
+   - D-11 (was vendor credit) — vendor credit removed from CRM entirely
+   - D-2 split into D-2a (mandatory data quality, KBM) and D-2b (selective activity logging, Pivot)
+   - HubSpot, vendor credit, approval workflows, internal referral compensation, and CRM data migration are now in a "Cross-area dependencies" section, flagged here but decided in their proper home areas
+
+6. **Hidden gaps you flagged have been added** as new divergences:
+   - D-5 owned-opportunity visibility (KBM REQ-005)
+   - D-10 forecast accuracy by user (KBM REQ-018)
+   - D-11 duplicate detection (KBM REQ-014 + Pivot transcript reference)
+   - D-3 internal referral attribution (Pivot REQ-3.06.01)
+
+7. **Source coverage made explicit in Doc Zero §5.** The traffic-light table now shows what BRD evidence each area has, including that 2 areas only have KBM gap analyses and 2 areas have no KBM BRD at all.
+
+8. **Working-session sequencing bug fixed** — Doc Zero now correctly says the working session is the test of the document, not its post-approval ratification.
+
+9. **Source citations added to every divergence in the CRM pilot** — every D-X now references specific KBM REQ IDs and Pivot REQ IDs.
+
+10. **Decision count expanded from 13 to 17** in the CRM pilot, reflecting the splits and added requirements.
+
+What I want from this review:
+
+**1. Did the rewrite actually land the prior critical issues?** For each of your prior 8 critical issues, verify whether the v2 documents address it adequately. Acknowledge what's now resolved and flag anything that is still wrong.
+
+**2. Did the tone reframe work?** Read both documents specifically as a Pivot leadership team member (Sandra Rudloff or one of her senior reports) and as Matt Hoag. Surface any sentence, phrase, or framing that still reads as evaluative, dismissive, or comparative-in-a-grading-sense. Quote specific lines.
+
+**3. Are there NEW issues introduced by the rewrite?** Check for: factual drift introduced while neutralizing language, recommendations that lost their grounding when classifications were removed, sections where the new framing made the recommendation harder to defend, hidden judgment in seemingly-neutral phrases.
+
+**4. Format scalability — second look.** Now that the template has been updated and the rewrite is in, re-assess each of the 9 remaining process areas (Marketing, Pre-Quote, Order Management, Operations, Project Management, Commissions, Financial Management, BI, System Setup). Is the v2 template ready to apply, or does it need further adaptation?
+
+**5. Reconciliation principle audit — second look.** Re-count the merged-company recommendations in the CRM pilot. Without classification language, can the principle be audited? Are the recommendations now defensible on context grounds? How many lean toward Pivot's direction vs. KBM's, and is the balance now justified by the context-based principle?
+
+**6. What still needs to happen before circulation?** A short prioritized list. If the answer is "nothing — circulate now," say so explicitly.
+
+Output format:
+
+```
+# v2 Review of KBM + Pivot Unification Drafts
+
+## Headline assessment
+   [3-5 sentences. Did v2 address the prior issues? Is it ready to circulate?]
+
+## Resolution of prior critical issues
+   [For each of the 8 prior critical issues, one line: RESOLVED / PARTIALLY RESOLVED / NOT RESOLVED, with evidence.]
+
+## Tone reframe assessment
+   [Did the tone work? Quote specific lines that still read as judgmental or evaluative if any remain.]
+
+## New issues introduced by the rewrite (if any)
+   [Numbered, with file + section.]
+
+## Format scalability — updated assessment
+   [Per remaining area, one paragraph. Reuse-as-is / minor-adaptation / structural-rework-needed.]
+
+## Reconciliation principle audit (v2)
+   [New count of merged-company direction. Is the balance defensible on context grounds?]
+
+## Recommended next steps
+   [Prioritized list. If "ready to circulate," say so.]
+```
+
+Be terse. Cite file paths and line numbers when you reference text. If the v2 actually landed, say so plainly — don't manufacture issues.

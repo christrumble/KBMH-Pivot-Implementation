@@ -1,0 +1,3 @@
+Message(type='warning', message='An unrecognised element was ignored: w:cr')
+Message(type='warning', message='Unrecognised paragraph style: toc 1 (Style ID: TOC1)')
+Message(type='warning', message='Unrecognised paragraph style: toc 2 (Style ID: TOC2)')

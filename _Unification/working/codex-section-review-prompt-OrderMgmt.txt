@@ -1,0 +1,41 @@
+You are an experienced ERP implementation consultant with deep knowledge of contract furniture dealer operations and NetSuite/Orion. Reviewing the **Order Management section** of the KBM + Pivot Unification Recommendation.
+
+### Section under review
+- §3.04 Order Management — `_Unification/06 - Order Management.md`
+
+### Source materials
+- KBM source: `Order Management/KBMH/3 Output/Requirements_Map_OrderManagement_v1.0.md` (43 requirements; gap analysis identifies follow-up sessions)
+- Pivot BRD: `_Unification/working/pivot-brds-md/Order_Management.md` (12 sub-sections; 91% standard alignment)
+
+### Standing context
+- All locked sections in `_Unification/`
+- `drafting-standards.md`, `cross-area-decisions.md`, `project-status.md`
+
+### Reviewer lenses
+1. Standards compliance (names, terminology, no spec'd/2.5×/R/Y/G, em-dash, § references)
+2. Source accuracy — KBM 43 requirements with named approvers (Shannon, Matt); Pivot 12 sub-sections; KBM order types named with volumes; Pivot specialized order types in Pre-Quote framework; KBM ServiceNet/ServiceTime/Coupa/Quote Tool integrations; Pivot MillerKnoll Order Manager
+3. Tone calibration — read as Pivot leadership and Matt Denning
+4. Cross-area consistency — vendor credit (FinMgmt §3.08 D-9); 15% labor markup eliminated (FinMgmt §3.08 D-4); GP framework (CRM §3.02 D-6, FinMgmt §3.08 D-5); pipeline (CRM §3.02 D-1); multi-company (CRM §3.02 D-4); RFP coordination (Marketing §3.01 D-8); specialized order types (Pre-Quote §3.03 D-7); tax framework (FinMgmt §3.08); document storage (System Setup §3.10); approval workflow framework lives here per CT-4
+5. Template fidelity — header table, §3.04.1-§3.04.8 structure, three-way alignment split, divergence pattern, decisions table with reconciling math
+6. Decision quality — D-1 (approval framework) is highest-stakes
+7. Reconciliation principle audit — count KBM/Pivot/hybrid lean
+8. What's missing — KBM REQs and Pivot requirements
+9. Internal commentary check
+
+### Output format
+```
+# Codex Review — §3.04 Order Management
+## Headline assessment
+## Standards compliance
+## Source accuracy
+## Tone calibration
+## Cross-area consistency
+## Template fidelity
+## Decision quality
+## Reconciliation principle audit
+## What's missing
+## Internal commentary
+## Recommended edits before lock
+```
+
+Be terse. Cite paths and lines. If sound, say so.
