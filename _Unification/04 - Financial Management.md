@@ -203,7 +203,7 @@ Ten in-area divergences. Each is presented as: how each company approached it (w
 
 **KBM's approach.** KBM's BRD addresses customer financial management through pro forma invoices for deposits, finance charge capability (off by default), and customer portal access for self-service. KBM does not have a dedicated collections-management framework as a separate sub-area; collections are addressed within the operational AR processes.
 
-**Pivot's approach.** Pivot's BRD has dedicated sections for Collections Management (§3.04) and AR Management (§3.14), articulating systematic collections workflows, customer aging analysis, automated dunning, and unified AR dashboards (CT-3, locked in BI §3.09 D-4 as part of the AR Collections 360 dashboard).
+**Pivot's approach.** Pivot's BRD has dedicated sections for Collections Management (§3.04) and AR Management (§3.14), articulating systematic collections workflows, customer aging analysis, automated dunning, and unified AR dashboards (locked in BI §3.09 D-4 as part of the AR Collections 360 dashboard).
 
 **Recommendation for the merged company.** Adopt Pivot's collections management and AR framework as merged-company baseline. The reasoning is contextual: the merged company's AR volume across both companies' customer bases benefits from the systematic collections framework Pivot articulates, and the AR Collections 360 dashboard already locked in BI §3.09 D-4 is operationalized through this framework. KBM's customer-portal capability and finance-charge configuration carry forward as part of the merged-company AR setup. Specific dunning workflows, collections cadence, and approval thresholds are finalized during configuration.
 
@@ -223,10 +223,9 @@ The following surfaced in Financial Management discovery but are decided in othe
 | **Division taxonomy for COA design** | Merged-company business segmentation in COA dimensions (D-1) | **CRM (§3.02 D-3b)** — division taxonomy pending working-session confirmation |
 | **Geography / location taxonomy for COA** | Sales Locations as COA dimension (D-1) | **CRM (§3.02 D-3a)** — two-dimensional model locked |
 | **Project record framework** | Project-level revenue/cost tracking (D-3, D-5) | **Project Management (§3.06)** — project record structure decided there |
-| **Document storage architecture** | Document management for AP, AR, financial records | **System Setup & Configuration (§3.10)** — document migration plan; KBM Google Drive vs. Pivot SharePoint reconciliation |
+| **Document storage architecture** | Document management for AP, AR, financial records | **System Setup & Configuration (§3.10 D-3)** — SharePoint as merged-company collaboration platform with KBM Google Drive content migrating on transition timeline |
 | **Historical data migration scope** | Historical financial data back to 2017 (KBM REQ-017); D365 historical migration (Pivot) | **System Setup & Configuration (§3.10)** — overall data migration plan |
 | **Vendor credit limits** | KBM's framework (D-9) cross-references CRM §3.02.4 dependency table | **Order Management (§3.04)** if procurement-led, or here in Financial Management if finance-led; cross-area linkage |
-| **Sales Goals dashboard** | Replaced by 2.5x pipeline multiplier per CT-7 | **CRM (§3.02 D-9)** — pipeline multiplier locked |
 | **Multi-company / multi-contact for billing** | Intermarket dealer transactions (KBM REQ-033) | **CRM (§3.02 D-4)** — relationship model locked; Financial Management uses the model for billing and payment |
 
 ## 3.08.5 Recommendation summary

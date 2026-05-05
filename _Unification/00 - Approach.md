@@ -69,7 +69,7 @@ The first thing leadership sees after the executive summary is a single page sho
 | 3.03 | Pre-Quote | Medium | Pivot BRD + KBM gap analysis | Labor quotes (KBM emphasis) and request types (Pivot emphasis) |
 | 3.04 | Order Management | Medium | Pivot BRD + KBM gap analysis | Approval framework, order types, document workflow |
 | 3.05 | Operations | High | Both (asymmetric scope) | Pivot operates in-house; KBM has operated through partners — onboarding shape |
-| 3.06 | Project Management | High | Pivot only | Workfront vs. Orion-native project execution |
+| 3.06 | Project Management | High | Pivot only | Workfront sunset to Orion-native project execution; transition shape and capability-replacement scope at cutover |
 | 3.07 | Commissions | Medium | Pivot only | Compensation model design for the merged company |
 | 3.08 | Financial Management | Medium | Both | Both mature; sequencing of financial close, COA, revenue recognition |
 | 3.09 | Business Intelligence | Low | Both | Reporting layer largely follows decisions made in earlier areas |

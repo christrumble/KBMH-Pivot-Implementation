@@ -86,12 +86,12 @@ Six in-area divergences.
 
 **Pivot's approach.** Pivot's existing document management uses SharePoint, with a SharePoint integration listed as one of the considered SuiteApps.
 
-**Recommendation for the merged company.** Operate the merged company with NetSuite File Cabinet as the primary document repository for transactional documents (invoices, POs, contracts, signed proposals) and integrated external storage for collaboration documents. The specific external-storage choice between Google Drive (KBM) and SharePoint (Pivot) is a leadership-team decision. Working default: maintain both integrations during transition with a defined sunset date for one or the other determined during the working session, prioritizing the platform with greater current adoption across the merged organization.
+**Recommendation for the merged company.** Operate the merged company with NetSuite File Cabinet as the primary document repository for transactional documents (invoices, POs, contracts, signed proposals) and SharePoint as the merged-company collaboration-document platform. KBM's Google Drive content migrates to SharePoint on a defined transition timeline, with the Google Drive integration sunset once migration completes. The recommendation aligns with Pivot's existing operational footprint (SharePoint deployed and integrated into existing workflows), preserves the document-management discipline Pivot's teams already rely on, and removes the integration overhead of maintaining two collaboration platforms long-term. KBM users onboard into SharePoint as part of the Discovery → Activate transition.
 
 **Decisions for the leadership team.**
 
 - (3a) Confirm: NetSuite File Cabinet as primary repository for transactional documents. *Recommended default: yes.*
-- (3b) Decide: external-storage platform for collaboration documents (Google Drive, SharePoint, or maintain both with sunset path). *Recommended default: confirm at session.*
+- (3b) Confirm: SharePoint as merged-company collaboration-document platform with KBM Google Drive content migrating on a defined transition timeline. *Recommended default: yes.*
 
 ---
 
@@ -159,7 +159,7 @@ The merged-company System Setup playbook in shorthand:
 
 - **Governance:** DREAM methodology with named-role assignments determined during organizational alignment
 - **Cutover strategy:** Soft cutover for both legacy systems, sequenced by process area
-- **Document management:** NetSuite File Cabinet as primary; external storage decision (Google Drive vs. SharePoint) at working session
+- **Document management:** NetSuite File Cabinet as primary for transactional documents; SharePoint as merged-company collaboration platform with KBM Google Drive content migrating on a defined transition timeline
 - **Roles:** 25+ custom Orion roles adapted for two-dimensional hierarchy (geography + division)
 - **Historical data migration:** Scope sufficient for historical reporting and predictive analytics; specific back-cutoff during data-migration planning
 - **Integration architecture:** Combined integrations across both companies with NetSuite Orion as system of record
@@ -171,12 +171,12 @@ The merged-company System Setup playbook in shorthand:
 | 1 | Named-role governance framework with merged-company assignments | Yes | D-1 |
 | 2 | Soft-cutover approach with process-area sequencing | Yes | D-2 |
 | 3a | NetSuite File Cabinet as primary transactional document repository | Yes | D-3 |
-| 3b | External-storage platform decision (Google Drive, SharePoint, or both with sunset) | Confirm at session | D-3 |
+| 3b | SharePoint as merged-company collaboration-document platform; KBM Google Drive content migrates on a defined transition timeline | Yes | D-3 |
 | 4 | Standard Orion 25+ custom role taxonomy adapted for merged-company operating model | Yes | D-4 |
 | 5 | Historical data migration scope sufficient for merged-company reporting; specific back-cutoff during data-migration planning | Yes | D-5 |
 | 6 | Combined integration architecture with NetSuite Orion as system of record | Yes | D-6 |
 
-> 7 decisions: 6 with default-yes recommendations and 1 (decision 3b, external-storage platform) requiring leadership-team selection during the working session.
+> 7 decisions, all with default-yes recommendations. The merged-company configuration direction is committed; the working session focus is confirmation and transition-timeline detail per area.
 
 ## 3.10.7 Configuration carryover
 
@@ -185,14 +185,14 @@ The merged-company System Setup playbook in shorthand:
 | NetSuite Orion environment | KBM prepaid account (operating account) | Pivot D365 in use; migrating | Configure merged-company environment in KBM's prepaid account |
 | Orion Suite Apps | Specified, in progress | Specified | Install per common-ground items |
 | Custom Orion roles | Specified | Specified | Build merged role taxonomy per D-4 |
-| Document management (File Cabinet + external storage) | Google Drive integration specified | SharePoint integration considered | Build per D-3 |
+| Document management (File Cabinet + external storage) | Google Drive in use; integration specified | SharePoint in use | NetSuite File Cabinet for transactional documents; SharePoint as merged-company collaboration platform per D-3; KBM Google Drive content migrates on a defined transition timeline |
 | Integration architecture | Multiple integrations specified | Multiple integrations specified | Build combined per D-6 |
 | Historical data migration | 2017+ scope specified for KBM | D365 history specified | Plan combined migration per D-5 |
 
 ## 3.10.8 Open questions / inputs needed
 
 1. **Merged-company role assignments** — Program Manager, Change Management Lead, and other named roles determined during organizational alignment.
-2. **External-storage platform choice** — Google Drive vs. SharePoint vs. parallel during transition; decided at working session.
+2. **KBM Google Drive content migration timeline** — schedule for migrating KBM's existing Google Drive collaboration content into SharePoint and sunsetting the Google Drive integration; finalized during change-management planning.
 3. **Historical data migration back-cutoff date** — finalized during data-migration planning with finance and BI leadership input.
 4. **Integration field mappings, sync triggers, source-of-truth rules, error handling** — completed during Realize-phase technical design.
 5. **Manager hierarchy configuration** — depends on merged-company org-chart finalization.
